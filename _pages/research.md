@@ -38,6 +38,7 @@ With Alexander Marbler
 ## Dynamics of environmental values and policies with income inequality
 
 
+
 # Publications
 ======
 
