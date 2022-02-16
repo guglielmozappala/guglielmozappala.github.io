@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Guglielmo Zappalà"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
