@@ -11,7 +11,7 @@ redirect_from:
 
 I am a second-year PhD Candidate in Economics at the Paris School of Economics. I am also a research fellow at IC Migrations. 
 
-I study the socio-economic impact of climate change, as well as how individuals perceive and form their attitudes towards climate and the role of perceptions in adaptive behavior.
+My research focuses on the socio-economic impact of climate change, as well as how individuals perceive and form their attitudes towards climate and the role of perceptions in adaptive behavior.
 
 **Contact**
 
