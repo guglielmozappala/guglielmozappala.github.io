@@ -28,7 +28,7 @@ _Abstract_ : Despite scientific consensus, there is no unanimity among individua
 
 _Abstract_ : In the last decades, climate change has engendered an increase in migration. This paper examines the consequences of recent waves of asylum applications in the European Union induced by weather fluctuations on the demand and supply of environmental policy preferences. I combine survey data with parties' agenda and electoral outcomes, and exploit exogenous variation in weather in non-OECD origin countries to derive a gravity-predicted instrument for asylum applications between 2000 and 2019. I find that asylum applications induced by weather variations increase the individual demand to treat climate change as a priority in the political arena. Relying on within-country variation across cohorts, I further document that the effect is larger among young generations and among birth-cohorts exposed to larger flows during their formative age. On the supply side, I find that national parties shift their political agenda, being more attentive to the environment. Instead, weather-induced asylum applications negatively affect votes for green parties in the European Parliament elections, driving a drop out of the voting polls of traditional green voters, but positively affect the environmentalism in national elections.
 
-======
+
 ## Work in Progress
 ======
 
@@ -37,7 +37,7 @@ _Abstract_ : In the last decades, climate change has engendered an increase in m
 ### Long-term climatic conditions and global spatial distribution of population 
 With Alexander Marbler
 
-======
+
 ## Publications
 ======
 
