@@ -32,11 +32,10 @@ _Abstract_ : In the last decades, climate change has engendered an increase in m
 # Work in Progress
 ======
 
-## Long-term climatic conditions and global spatial distribution of population 
-With Alexander Marbler
-
 ## Dynamics of environmental values and policies with income inequality
 
+## Long-term climatic conditions and global spatial distribution of population 
+With Alexander Marbler
 
 
 # Publications
