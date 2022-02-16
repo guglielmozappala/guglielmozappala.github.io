@@ -17,7 +17,7 @@ redirect_from:
 [Draft available upon request]
 
 <details>
-<summary> _Abstract_ : </summary>
+<summary> _Abstract_ </summary>
 <br>
 This paper examines how subjective perceptions of climate change influence adaptation decisions. Combining a survey of rural households in Bangladesh with a meteorological measure of dryness, I study the effect of subjective perceptions of increases in droughts on the use of irrigation. I formalize a theoretical framework in which the effect of subjective perceptions is moderated by the average long-term excess dryness relative to historical averages. I empirically test the implications and document that the effect is stronger for more severe environmental conditions and heterogeneous across growing seasons, types of irrigation and socio-demographic characteristics of farmers. I further explore three mechanisms through which cognitive factors may affect adaptation decisions. Exploiting the intensity and the frequency of drought events, I compare self-reported and objective records. The findings show that farmers only adjust their irrigation decisions as a response to previous year's self-reported drought events, and inaccuracy in their occurrence leads to potentially sub-optimal irrigation decisions, reducing the share of irrigated land. I also provide evidence that overestimating the frequency of past droughts explains differences in irrigation.
 </details>
