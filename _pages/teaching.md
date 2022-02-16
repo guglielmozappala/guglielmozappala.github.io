@@ -14,7 +14,7 @@ redirect_from:
 
 Applied Econometrics using Stata, SciencesPo Paris (Fall 2021 - Graduate) - Main instructor
 
-- Topics: OLS, binary dependent variable models, instrumental variables, panel data
+- <ins>Topics</ins>: OLS, binary dependent variable models, instrumental variables, panel data
 
 Imperfectly Competitive Markets, IÉSEG School of Management  (Fall 2021 - Undergraduate) - Main instructor
 
