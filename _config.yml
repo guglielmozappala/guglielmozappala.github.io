@@ -115,7 +115,7 @@ author:
   youtube          :
   wikipedia        :
 
-
+round-avatar: true
 
 # Reading Files
 include:
