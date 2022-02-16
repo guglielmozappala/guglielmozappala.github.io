@@ -81,6 +81,7 @@ analytics:
 author:
   name             : # ""
   avatar           : "upload.png"
+  round-avatar     : true
   bio              : # ""
   location         : # ""
   employer         :
