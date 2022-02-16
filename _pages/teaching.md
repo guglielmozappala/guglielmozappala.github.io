@@ -28,4 +28,4 @@ Environmental Economics and Policy, University of Padova (Spring 2021 - Undergra
 
 Business Cycles, IÉSEG School of Management (Winter 2020, 2021 - Graduate) - Main instructor
 
-- <ins>Topics</ins>: Business cycles and macroeconomic uncertainty, national accounting, balance of payments, relationships between unemployment, inflation, output and money growth, exchange rate regimes
+- <ins>Topics</ins>: Business cycles and macroeconomic uncertainty, National accounting, Balance of payments, relationships between unemployment, inflation, output and money growth, Exchange rate regimes
