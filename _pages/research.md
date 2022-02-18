@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+# Research
 
 ## Working papers
-======
 
 ### Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh
 [Draft available upon request]
@@ -40,8 +40,8 @@ Despite scientific consensus, there is no unanimity among individuals in the bel
 In the last decades, climate change has engendered an increase in migration. This paper examines the consequences of recent waves of asylum applications in the European Union induced by weather fluctuations on the demand and supply of environmental policy preferences. I combine survey data with parties' agenda and electoral outcomes, and exploit exogenous variation in weather in non-OECD origin countries to derive a gravity-predicted instrument for asylum applications between 2000 and 2019. I find that asylum applications induced by weather variations increase the individual demand to treat climate change as a priority in the political arena. Relying on within-country variation across cohorts, I further document that the effect is larger among young generations and among birth-cohorts exposed to larger flows during their formative age. On the supply side, I find that national parties shift their political agenda, being more attentive to the environment. Instead, weather-induced asylum applications negatively affect votes for green parties in the European Parliament elections, driving a drop out of the voting polls of traditional green voters, but positively affect the environmentalism in national elections.
 </details>
 
+
 ## Work in Progress
-======
 
 ### Dynamics of environmental values and policies with income inequality
 
@@ -50,7 +50,6 @@ With Alexander Marbler
 
 
 ## Publications
-======
 
 ### [Happier Elderly Residents. The positive impact of physical activity on objective and subjective health condition of elderly people in nursing homes. Evidence from a multi-site randomized controlled trial](https://link.springer.com/content/pdf/10.1007/s11482-021-09952-4.pdf)
 With Claudia Senik, Carine Milcent, Chloé Gerves-Pinquié and Patricia Dargent-Molina. _Applied Research in Quality of Life_ (2021)
