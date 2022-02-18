@@ -17,7 +17,5 @@ From March to June 2022, I am a visiting research student at the Bren School of 
 
 My research focuses on the socio-economic impact of climate change, as well as how individuals perceive and form their attitudes towards climate and the role of perceptions in adaptive behavior. <br>
 
-**Contact**
-
+**Contact** <br>
 Email: guglielmo.zappala[at]psemail.eu 
-<br>
