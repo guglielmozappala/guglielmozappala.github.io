@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br />
 <!-- <img src=https://github.com/guglielmozappala/guglielmozappala.github.io/tree/master/images/upload.png style="width:740px;height:640px;"> -->
-
+<br />
 <!--![github small](/images/upload.png) -->
 <img src="/images/upload.png" alt="drawing" width="400" height="350" style="float: left; padding-right:15px"/> I am a second-year PhD candidate in Economics at the Paris School of Economics and a research fellow at IC Migrations. <br>
 
