@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br />
-<!-- <img src=https://github.com/guglielmozappala/guglielmozappala.github.io/tree/master/images/upload copia.png style="width:740px;height:640px;"> -->
+<!-- <img src=https://github.com/guglielmozappala/guglielmozappala.github.io/tree/master/images/upload copia.png style="width:540px;height:740px;"> -->
 <br />
 <!--![github small](/images/upload copia.png) -->
 <img src="/images/upload.png" alt="drawing" width="450" height="400" style="float: left; padding-right:15px"/> I am a second-year PhD candidate in Economics at the Paris School of Economics and a research fellow at IC Migrations. <br>
