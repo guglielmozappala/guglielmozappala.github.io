@@ -14,7 +14,7 @@ redirect_from:
 
 ### 2022
 
-- Casual Friday Development Seminar (PSE, scheduled)
+- Casual Friday Development Seminar (PSE)
 - 15th RGS Doctoral Conference in Economics (online)
 - 66th Annual Conference of the Australasian Agricultural & Resource Economics Society *
 
