@@ -14,10 +14,11 @@ redirect_from:
 
 ### 2022
 
+- 27th Annual Conference of the European Association of Environmental and Resource Economists - EAERE (Rimini, scheduled)
 - Association of Environmental and Resource Economists 2022 Summer Conference - AERE (Miami, scheduled)
 - 19th Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara, scheduled)
 - 10th Italian Association of Environmental and Resource Economists Annual Conference - IAERE (scheduled)
-- 13th Annual Interdisciplinary PhD Workshop in Sustainable Development (Columbia University, scheduled)
+- 13th Annual Interdisciplinary PhD Workshop in Sustainable Development (Columbia University)
 - Casual Friday Development Seminar (PSE)
 - 15th RGS Doctoral Conference in Economics (online)
 - 66th Annual Conference of the Australasian Agricultural & Resource Economics Society *
