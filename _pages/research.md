@@ -42,6 +42,8 @@ In the last decades, climate change has engendered an increase in migration. Thi
 
 **Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)
 
+**Dynamics of environmental values and policies with income inequality
+
 ## Publications
 
 [**Happier Elderly Residents. The positive impact of physical activity on objective and subjective health condition of elderly people in nursing homes. Evidence from a multi-site randomized controlled trial**](https://link.springer.com/content/pdf/10.1007/s11482-021-09952-4.pdf) (2022) (with Claudia Senik, Carine Milcent, Chloé Gerves-Pinquié and Patricia Dargent-Molina) _Applied Research in Quality of Life_,17(2), 1091-1111
