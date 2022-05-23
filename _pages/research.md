@@ -40,7 +40,7 @@ In the last decades, climate change has engendered an increase in migration. Thi
 
 ## Work in Progress
 
-**Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)**
+**Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)
 
 **Dynamics of environmental values and policies with income inequality**
 
