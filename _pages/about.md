@@ -11,7 +11,7 @@ redirect_from:
 <!-- <img src=https://github.com/guglielmozappala/guglielmozappala.github.io/tree/master/images/upload copia.png style="width:540px;height:740px;"> -->
 <br />
 <!--![github small](/images/upload copia.png) -->
-<img src="/images/upload.png" alt="drawing" width="350" height="311" style="float: left; padding-right:15px"/> I am a second-year PhD candidate in Economics at the Paris School of Economics and a research fellow at IC Migrations. <br>
+<img src="/images/upload.png" alt="drawing" width="350" height="311" style="float: left; padding-right:15px"/> I am a PhD candidate at the Paris School of Economics and a research fellow at IC Migrations. <br>
 
 From March to June 2022, I am a visiting research scholar at emLab and Bren School of Environmental Science and Management at UC Santa Barbara, sponsored by Prof. Tamma Carleton. <br>
 
