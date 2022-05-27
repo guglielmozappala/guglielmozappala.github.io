@@ -14,6 +14,7 @@ redirect_from:
 
 ### 2022
 
+- European Economic Association Congress - EEA-ESEM (Bocconi University, scheduled)
 - 27th Annual Conference of the European Association of Environmental and Resource Economists - EAERE (Rimini, scheduled)
 - Association of Environmental and Resource Economists 2022 Summer Conference - AERE (Miami, scheduled)
 - 19th Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara)
