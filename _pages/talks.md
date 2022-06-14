@@ -31,7 +31,7 @@ redirect_from:
 - 9th PhD Workshop in Economics of Innovation, Complexity and Knowledge - WICK (Collegio Carlo Alberto)
 - Online Summer Workshop in Environment, Energy, and Transportation Economics - OSWEET
 - Irish Postgraduate and Early Career Workshop - IPECE (online)
-- SEEDS Annual Workshop (University of Rome “Tor Vergata”, Rome)
+- SEEDS Annual Workshop (University of Rome “Tor Vergata”)
 - Little Informal Seminar (PSE)
 - 8th French Association of Environmental and Resource Economists Annual Conference - FAERE (Grenoble)
 - PhD Summer School on Applied Microeconomics - University of Cyprus, Lancaster University and University of Padova (online)
