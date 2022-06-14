@@ -28,8 +28,8 @@ redirect_from:
 
 ### 2021
 
-- 9th International PhD Workshop in Economics of Innovation, Complexity and Knowledge - WICK (Carlo Alberto, Turin)
-- Online Summer Workshop in Environment, Energy, and Transportation Economics (OSWEET)
+- 9th PhD Workshop in Economics of Innovation, Complexity and Knowledge - WICK (Collegio Carlo Alberto)
+- Online Summer Workshop in Environment, Energy, and Transportation Economics - OSWEET
 - Irish Postgraduate and Early Career Workshop - IPECE (online)
 - SEEDS Annual Workshop (University of Rome “Tor Vergata”, Rome)
 - Little Informal Seminar (PSE)
