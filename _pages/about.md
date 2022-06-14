@@ -21,5 +21,5 @@ My research focuses on the socio-economic impact of climate change, as well as h
 Email: guglielmo.zappala[at]psemail.eu 
 \
 \
-Wondering how to pronounce my name?
+Wondering how to pronounce my name? /goo-yell-mo/
 <audio controls> <source src=" https://github.com/guglielmozappala/guglielmozappala.github.io/blob/master/files/name.m4a?raw=true" type="audio/ogg"></audio>
