@@ -29,7 +29,7 @@ The lack of vigorous policies to avert significant climate change has increased 
 Mounting evidence that climate is changing requires a better understanding of how individuals adapt, particularly among agricultural communities in developing countries, which may most suffer the consequences. Combining a survey of rural households in Bangladesh with a meteorological measure of dryness, I study the role of subjective perceptions of climate change on irrigation use. I formalize a theoretical framework of behavioral inattention to examine how farmers' beliefs differentially shape their responsiveness to dryness exposure. I empirically test the implications and document that the effect is stronger for more severe environmental conditions, with heterogeneous responses by growing seasons, types of irrigation and socio-demographic characteristics. I further explore three cognitive mechanisms, exploiting the intensity and the frequency of drought events and comparing self-reported and objective records. In a counterfactual analysis with beliefs based on meteorological conditions, I document that farmers underuse irrigation and incur in substantial monetary losses as a result of inaccurate beliefs, generating a belief gap. 
 </details>
 
-**Climate-induced migration and environmental policy preferences** <br/> [Draft available upon request]
+**Climate-induced migration and environmental values** <br/> [Draft available upon request]
 
 <details>
 <summary> Abstract </summary>
