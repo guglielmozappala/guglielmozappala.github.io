@@ -13,9 +13,9 @@ redirect_from:
 <!--![github small](/images/upload copia.png) -->
 <img src="/images/upload.png" alt="drawing" width="350" height="311" style="float: left; padding-right:15px"/> I am a PhD candidate at the Paris School of Economics and a research fellow at IC Migrations. <br>
 
-From March to June 2022, I am a visiting research scholar at emLab and Bren School of Environmental Science and Management at UC Santa Barbara, sponsored by Prof. Tamma Carleton. <br>
+My research focuses on the socio-economic impact of climate change and our ability to adapt to these impacts, as well as how individuals perceive and form their attitudes towards climate and the role of beliefs in adaptive behavior. <br>
 
-My research focuses on the socio-economic impact of climate change, as well as how individuals perceive and form their attitudes towards climate and the role of beliefs in adaptive behavior. <br>
+I have previously been a visiting research scholar at emLab and Bren School of Environmental Science and Management at UC Santa Barbara, hosted by Prof. Tamma Carleton. <br>
 
 **Contact** <br>
 Email: guglielmo.zappala[at]psemail.eu 
