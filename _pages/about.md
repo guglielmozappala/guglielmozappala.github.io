@@ -17,7 +17,7 @@ My research focuses on the socio-economic impact of climate change and the human
 
 I am currently partaking in the Fund Internship Program at the International Monetary Fund.
 
-I have previously been a visiting research scholar at emLab and Bren School of Environmental Science and Management at UC Santa Barbara, hosted by Tamma Carleton. <br>
+I have previously been a visiting research scholar at emLab and Bren School at UC Santa Barbara, hosted by Tamma Carleton. <br>
 
 **Contact** <br>
 Email: guglielmo.zappala[at]psemail.eu 
