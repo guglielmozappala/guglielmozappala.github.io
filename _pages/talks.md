@@ -15,7 +15,8 @@ redirect_from:
 ### 2022
 
 - 2nd IZA Workshop: Climate Change and Human Wellbeing (scheduled)
-- European Economic Association Congress - EEA-ESEM (Bocconi University, scheduled)
+- IMF Fiscal Affairs Seminar
+- European Economic Association Congress - EEA-ESEM (Bocconi University)
 - 27th Annual Conference of the European Association of Environmental and Resource Economists - EAERE (Rimini)
 - Royal Economic Society - Symposium of Junior Researchers (University of Warwick)
 - Association of Environmental and Resource Economists Summer Conference - AERE (Miami)
