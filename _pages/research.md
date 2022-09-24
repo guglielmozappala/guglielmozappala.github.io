@@ -34,15 +34,15 @@ Mounting evidence that climate is changing requires a better understanding of ho
 <details>
 <summary> Abstract </summary>
 <br>
-In the last decades, climate change has engendered an increase in migration. This paper examines the consequences of recent waves of asylum applications in the European Union induced by weather fluctuations on the demand and supply of environmental policy preferences. I combine survey data with parties' agenda and electoral outcomes, and exploit exogenous variation in weather in non-OECD origin countries to derive a gravity-predicted instrument for asylum applications between 2000 and 2019. I find that asylum applications induced by weather variations increase the individual demand to treat climate change as a priority in the political arena. Relying on within-country variation across cohorts, I further document that the effect is larger among young generations and among birth-cohorts exposed to larger flows during their formative age. On the supply side, I find that national parties shift their political agenda, being more attentive to the environment. Instead, weather-induced asylum applications negatively affect votes for green parties in the European Parliament elections, driving a drop out of the voting polls of traditional green voters, but positively affect the environmentalism in national elections.
+In the last decades, climate change has engendered an increase in migration. This paper examines the consequences of recent waves of asylum applications induced by weather fluctuations on the demand and supply of environmental policy preferences in the European Union. I combine survey data with parties' agenda and electoral outcomes, and exploit exogenous variation in weather in non-OECD origin countries to derive a gravity-predicted instrument for asylum applications between 2000 and 2019. I find that asylum applications induced by weather fluctuations raise individual concern on climate change as a priority in the political arena. Relying on within-country variation across cohorts, I further document that the effect is larger among young generations and among birth-cohorts exposed to larger flows during their formative age. On the supply side, I find that national parties shift their political agenda, being more attentive to the environment. Instead, weather-induced asylum applications negatively affect votes for green parties in the European Parliament elections, due to a drop out of the voting polls of traditional green voters and shaping individuals below voting age.
 </details>
 
 
 ## Work in Progress
 
-**Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)
-
 **The sectoral impact and propagation of weather shocks**
+
+**Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)
 
 **Endogenous green preferences** (with Ravi Vora)
 
