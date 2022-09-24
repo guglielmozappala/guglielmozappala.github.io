@@ -42,6 +42,8 @@ In the last decades, climate change has engendered an increase in migration. Thi
 
 **Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)
 
+**The sectoral impact and propagation of weather shocks**
+
 **Endogenous green preferences** (with Ravi Vora)
 
 **Dynamics of environmental values and policies with income inequality**
