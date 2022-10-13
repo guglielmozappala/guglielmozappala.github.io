@@ -40,7 +40,7 @@ In the last decades, climate change has engendered an increase in migration. Thi
 
 ## Work in Progress
 
-**The sectoral impact and propagation of weather shocks**
+**Sectoral impact and propagation of weather shocks**
 
 **Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)
 
