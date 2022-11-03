@@ -37,14 +37,19 @@ Mounting evidence that climate is changing requires a better understanding of ho
 In the last decades, climate change has engendered an increase in migration. This paper examines the consequences of recent waves of asylum applications induced by weather fluctuations on the demand and supply of environmental policy preferences in the European Union. I combine survey data with parties' agenda and electoral outcomes, and exploit exogenous variation in weather in non-OECD origin countries to derive a gravity-predicted instrument for asylum applications between 2000 and 2019. I find that asylum applications induced by weather fluctuations raise individual concern on climate change as a priority in the political arena. Relying on within-country variation across cohorts, I further document that the effect is larger among young generations and among birth-cohorts exposed to larger flows during their formative age. On the supply side, I find that national parties shift their political agenda, being more attentive to the environment. Instead, weather-induced asylum applications negatively affect votes for green parties in the European Parliament elections, due to a drop out of the voting polls of traditional green voters and shaping individuals' preferences below voting age.
 </details>
 
+**Sectoral impact and propagation of weather shocks** <br/> [Draft available upon request]
+
+<details>
+<summary> Abstract </summary>
+<br>
+Local weather shocks have been shown to affect local economic output, however, little is known on whether they propagate through production networks. Using a six-sector cross-country dataset over the past fifty years, this paper examines the effect of weather fluctuations and extreme weather events on sectoral economic output and the propagation of weather shocks across sectors, countries and over time. First, I document that agriculture is the most harmed sector by heat shocks, droughts and cyclones. Second, using input-output interlinkages, I find that sectors at later stages of the supply chain suffer from substantial and persistent losses over time due to domestic and foreign heat shocks in other sectors, mostly propagating downstream. Point estimates are economically large, suggesting that indirect losses due to sectoral spillovers are an important component of the total economic impact of climate change. I estimate that, since 2000, the propagation of heat shocks has been responsible for output losses across all sectors and cumulative damages are 33\% larger when accounting for spillovers.
+</details>
 
 ## Work in Progress
 
-**Sectoral impact and propagation of weather shocks**
+**Endogenous green preferences** (with Ravi Vora)
 
 **Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)
-
-**Endogenous green preferences** (with Ravi Vora)
 
 **Dynamics of environmental values and policies with income inequality**
 
