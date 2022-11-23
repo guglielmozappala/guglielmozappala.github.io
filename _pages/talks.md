@@ -15,8 +15,8 @@ redirect_from:
 ### 2022
 
 - 15th PhD Workshop in Economics (Collegio Carlo Alberto, scheduled)
-- Graduate Seminar in International Economics (PSE, scheduled)
-- Paris Migration Economics Seminar - IC Migrations (PSE, scheduled)
+- Graduate Seminar in International Economics (PSE)
+- Paris Migration Economics Seminar - IC Migrations (PSE)
 - PSE-CREST Informal Workshop in Empirical Environmental Economics
 - 2nd IZA Workshop: Climate Change and Human Wellbeing (online)
 - IMF Fiscal Affairs Seminar
