@@ -13,7 +13,7 @@ redirect_from:
 
 ## Working papers
 
-[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](/files/Zappala_FAERE_WP2022.02.pdf) <em> FAERE Working Paper, 2022.02</em> [Under review] <br/>
+[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](/files/Zappala_FAERE_WP2022.02.pdf) <em> FAERE Working Paper, 2022.02</em> <br/> [Under review]
 
 <details>
 <summary> Abstract </summary>
@@ -34,7 +34,7 @@ Mounting evidence that climate is changing requires a better understanding of ho
 <details>
 <summary> Abstract </summary>
 <br>
-In the last decades, climate change has engendered an increase in migration. This paper examines the consequences of recent waves of asylum applications induced by weather fluctuations on the demand and supply of environmental policy preferences in the European Union. I combine survey data with parties' agenda and electoral outcomes, and exploit exogenous variation in weather in non-OECD origin countries to derive a gravity-predicted instrument for asylum applications between 2000 and 2019. I find that asylum applications induced by weather fluctuations raise individual concern on climate change as a priority in the political arena. Relying on within-country variation across cohorts, I further document that the effect is larger among young generations and among birth-cohorts exposed to larger flows during their formative age. On the supply side, I find that national parties shift their political agenda, being more attentive to the environment. Instead, weather-induced asylum applications negatively affect votes for green parties in the European Parliament elections, due to a drop out of the voting polls of traditional green voters and shaping individuals' preferences below voting age.
+Weather fluctuations can substantially affect international migration, however, little is known about the political consequences of the climate-driven portion of migration flows in the host countries. This paper examines the effect of recent waves of asylum seeker flows induced by weather fluctuations on the demand and supply of environmental policy preferences in the European Union. I combine survey data with parties' agenda and electoral outcomes, and exploit exogenous variation in weather in non-OECD origin countries to derive a gravity-predicted instrument for asylum applications between 2000 and 2019. On the demand side, I document that flows induced by weather fluctuations raise individual concern on climate change as a priority in the political arena. Relying on within-country variation across cohorts, I find a positive effect for individuals exposed to larger asylum flows during their formative age. On the supply side, I find that national parties shift their political agenda towards the environment. Focusing on electoral outcomes, weather-induced asylum applications negatively affect votes for green parties in the European Parliament elections, which can be explained by a drop out of the voting polls of traditional green voters and by changes in preferences for individuals yet below the voting age.
 </details>
 
 **Sectoral impact and propagation of weather shocks** <br/> [Draft coming soon]
