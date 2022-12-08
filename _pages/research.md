@@ -13,7 +13,7 @@ redirect_from:
 
 ## Working papers
 
-[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](/files/Zappala_FAERE_WP2022.02.pdf) <em> FAERE Working Paper, 2022.02</em> <br/> [Under review]
+[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](/files/Zappala_FAERE_WP2022.02.pdf) <em> FAERE Working Paper, 2022.02</em> <br/>
 
 <details>
 <summary> Abstract </summary>
@@ -21,7 +21,7 @@ redirect_from:
 The lack of vigorous policies to avert significant climate change has increased the importance for effective and timely adaptation. Adequate adaptation is particularly important for agricultural communities in developing countries, which may most suffer the consequences of climate change. Evidence is still scarce on how people from the most vulnerable areas form climate change beliefs and whether they exhibit cognitive biases. Using survey data from rural households in Bangladesh together with a meteorological measure of excess dryness relative to historical averages, I study how long-term average drought exposure and short-term deviations shape beliefs about drought frequency and the interpretation of drought events. To explore how agents interpret past droughts, I use an instrumental variable approach and investigate whether individual beliefs lead to asymmetric distortion of objective information. The results show that individuals recollect and overweight evidence tilted towards their prior beliefs, providing evidence of confirmation bias as a directional motivated reasoning mechanism. The findings highlight the need for models that account for behavioral factors to study climate change beliefs and their implications for effective communication and adaptation policies. 
 </details>
 
-**Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh** <br/> [Draft available upon request]
+**Adapting to climate change accounting for individual beliefs** <br/> [Draft available upon request] [Previously circulated as "Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh"]
 
 <details>
 <summary> Abstract </summary>
