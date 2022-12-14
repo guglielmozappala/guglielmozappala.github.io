@@ -29,7 +29,6 @@ redirect_from:
 - 13th Annual Interdisciplinary PhD Workshop in Sustainable Development (Columbia University)
 - Casual Friday Development Seminar (PSE)
 - 15th RGS Doctoral Conference in Economics (online)
-- 66th Annual Conference of the Australasian Agricultural & Resource Economics Society *
 
 
 ### 2021
@@ -44,5 +43,3 @@ redirect_from:
 - Bavarian Young Economists’ Meeting - Virtual EBE/GRK Summer Meeting (online)
 - Behavioural Workgroup (PSE)
 - Climate Economics Chair (Dauphine University)
-
-A "*" indicates that I was not attending. 
