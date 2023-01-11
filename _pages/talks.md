@@ -11,6 +11,12 @@ redirect_from:
 
 ## Conferences & Seminars
 
+### 2023
+
+- University of Padova - Economics Seminar (scheduled)
+- 15th FIW-Research Conference in International Economics (scheduled)
+- 11th Italian Association of Environmental and Resource Economists Annual Conference - IAERE (scheduled)
+- ADRES Doctoral Conference (scheduled)
 
 ### 2022
 
