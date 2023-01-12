@@ -32,7 +32,7 @@ redirect_from:
 - Association of Environmental and Resource Economists Summer Conference - AERE (Miami)
 - 19th Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara)
 - 10th Italian Association of Environmental and Resource Economists Annual Conference - IAERE (Cagliari)
-- 13th Annual Interdisciplinary PhD Workshop in Sustainable Development (Columbia University)
+- 13th Annual Interdisciplinary PhD Workshop in Sustainable Development - IPWSD (Columbia University)
 - Casual Friday Development Seminar (PSE)
 - 15th RGS Doctoral Conference in Economics (online)
 
