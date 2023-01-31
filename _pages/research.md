@@ -13,7 +13,7 @@ redirect_from:
 
 ## Working papers
 
-[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](/files/Zappala_FAERE_WP2022.02.pdf) <em> [R&R Environmental and Resource Economics] FAERE Working Paper, 2022.02</em> <br/>
+[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](/files/Zappala_FAERE_WP2022.02.pdf) <em> FAERE Working Paper, 2022.02 [Revise and Resubmit]</em> <br/>
 
 <details>
 <summary> Abstract </summary>
