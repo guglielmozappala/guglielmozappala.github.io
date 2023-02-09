@@ -12,14 +12,13 @@ redirect_from:
 
 ## Teaching
 
+Environmental Economics and Policy, University of Padova (Spring 2021, 2023 - Undergraduate) - Guest lecturer (10h)
+
+- <ins>Topics</ins>: Attitudes and beliefs towards environmental problems and climate change; Environmental policies: public support; Climate economics and the social cost of carbon; Climate change adaptation and mitigation; Envirodevonomics: economic development and the environment
 
 Applied Econometrics using Stata, SciencesPo Paris (Fall 2021 - Graduate) - Main instructor
 
 - <ins>Topics</ins>: OLS, Binary dependent variable models, Instrumental variables, Panel data
-
-Environmental Economics and Policy, University of Padova (Spring 2021 - Undergraduate) - Guest lecturer (3h)
-
-- <ins>Topics</ins>: Climate change adaptation and mitigation
 
 Imperfectly Competitive Markets, IÉSEG School of Management  (Fall 2021, 2022 - Undergraduate) - Main instructor
 
