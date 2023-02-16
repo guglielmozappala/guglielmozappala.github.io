@@ -13,6 +13,7 @@ redirect_from:
 
 ### 2023
 
+- 14th Annual Interdisciplinary PhD Workshop in Sustainable Development - IPWSD (scheduled)
 - University of Padova - Economics Seminar (scheduled)
 - 11th Italian Association of Environmental and Resource Economists Annual Conference - IAERE (scheduled)
 - ADRES Doctoral Conference (Université Paris Dauphine)
