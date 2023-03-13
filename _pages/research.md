@@ -13,6 +13,14 @@ redirect_from:
 
 ## Working papers
 
+[**Sectoral impact and propagation of weather shocks**]([https://pages.github.com](https://www.imf.org/en/Publications/WP/Issues/2023/03/10/Sectoral-Impact-and-Propagation-of-Weather-Shocks-530798)/) <em> IMF Working Paper, 2023/053 </em> <br/>
+
+<details>
+<summary> Abstract </summary>
+<br>
+Local weather shocks have been shown to affect local economic output, however, little is known about their propagation through production networks. Using a six-sector global dataset over the past fifty years, this paper examines the effect of weather fluctuations and extreme weather events on sectoral economic production and the transmission of weather shocks across sectors, countries and over time. I document that agriculture is the most harmed sector by heat shocks, droughts and cyclones. Using input-output interlinkages, I find that sectors at later stages of the supply chain suffer from substantial and persistent losses over time due to domestic and foreign heat shocks in other sectors, mostly propagating downstream. A counterfactual analysis of the average annual output loss accounting for heat shocks across trade partners shows a substantial underestimation of the economic cost due to temperature increases since 2000.
+</details>
+
 [**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](/files/Zappala_FAERE_WP2022.02.pdf) <em> FAERE Working Paper, 2022.02 </em> <br/> [Revise and Resubmit] <br/>
 
 <details>
@@ -35,14 +43,6 @@ Mounting evidence that climate is changing requires a better understanding of ho
 <summary> Abstract </summary>
 <br>
 Weather fluctuations can substantially affect international migration, however, little is known about the political consequences of the climate-driven portion of migration flows in the host countries. This paper examines the effect of recent waves of asylum seeker flows induced by weather fluctuations on the demand and supply of environmental policy preferences in the European Union. I combine survey data with parties' agenda and electoral outcomes, and exploit exogenous variation in weather in non-OECD origin countries to derive a gravity-predicted instrument for asylum applications between 2000 and 2019. On the demand side, I document that flows induced by weather fluctuations raise individual concern on climate change as a priority in the political arena. Relying on within-country variation across cohorts, I find a positive effect for individuals exposed to larger asylum flows during their formative age. On the supply side, I find that national parties shift their political agenda towards the environment. Focusing on electoral outcomes, weather-induced asylum applications negatively affect votes for green parties in the European Parliament elections, which can be explained by a drop out of the voting polls of traditional green voters and by changes in preferences for individuals yet below the voting age.
-</details>
-
-**Sectoral impact and propagation of weather shocks** <br/> [Draft coming soon]
-
-<details>
-<summary> Abstract </summary>
-<br>
-Local weather shocks have been shown to affect local economic output, however, little is known about their propagation through production networks. Using a six-sector global dataset over the past fifty years, this paper examines the effect of weather fluctuations and extreme weather events on sectoral economic production and the transmission of weather shocks across sectors, countries and over time. I document that agriculture is the most harmed sector by heat shocks, droughts and cyclones. Using input-output interlinkages, I find that sectors at later stages of the supply chain suffer from substantial and persistent losses over time due to domestic and foreign heat shocks in other sectors, mostly propagating downstream. A counterfactual analysis of the average annual output loss accounting for heat shocks across trade partners shows a substantial underestimation of the economic cost due to temperature increases since 2000.
 </details>
 
 ## Work in Progress
