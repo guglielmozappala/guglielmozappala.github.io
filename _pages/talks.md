@@ -14,7 +14,7 @@ redirect_from:
 ### 2023
 
 - LSE Environmental Economics Seminar (scheduled)
-- 11th Mannheim Conference on Energy and the Environment (ZEW Mannheim)
+- 11th Mannheim Conference on Energy and the Environment (scheduled)
 - 14th Annual Interdisciplinary PhD Workshop in Sustainable Development - IPWSD (Columbia University)
 - University of Padova - Economics Seminar
 - 11th Italian Association of Environmental and Resource Economists Annual Conference - IAERE (Naples)
