@@ -13,7 +13,7 @@ redirect_from:
 
 ## Working papers
 
-[**Sectoral impact and propagation of weather shocks**](https://www.imf.org/en/Publications/WP/Issues/2023/03/10/Sectoral-Impact-and-Propagation-of-Weather-Shocks-530798) <em> IMF Working Paper, 2023/053 </em> <br/>
+[**Sectoral impact and propagation of weather shocks**](https://www.imf.org/en/Publications/WP/Issues/2023/03/10/Sectoral-Impact-and-Propagation-of-Weather-Shocks-530798) <em> IMF Working Paper, 2023/053 </em> <br/> [Revised version [here](/files/Sectoral_impact_and_propagation_of_weather_shocks.pdf)]
 
 <details>
 <summary> Abstract </summary>
