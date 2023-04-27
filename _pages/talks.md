@@ -18,7 +18,7 @@ redirect_from:
 - LSE Environmental Economics Graduate Seminar (scheduled)
 - 11th Mannheim Conference on Energy and the Environment (scheduled)
 - LSE Environmental Day (scheduled)
-- Transport, Energy and Climate Economics Working Group, Governance and Regulation Chair (Université Paris-Dauphine)
+- Transport, Energy and Climate Economics Working Group, Governance and Regulation Chair (Université Paris Dauphine)
 - 14th Annual Interdisciplinary PhD Workshop in Sustainable Development - IPWSD (Columbia University)
 - University of Padova - Economics Seminar
 - 11th Italian Association of Environmental and Resource Economists Annual Conference - IAERE (Naples)
