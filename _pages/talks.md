@@ -17,7 +17,8 @@ redirect_from:
 - Climate Economics Pipeline Workshop, Harvard Kennedy School (scheduled) 
 - Workshop on Political Economy (Universitat de Barcelona, scheduled)
 - LSE Environmental Economics Graduate Seminar (scheduled)
-- 11th Mannheim Conference on Energy and the Environment (scheduled)
+- Judgement and Decision Making Lab (JDMLab), University of Padova
+- 11th Mannheim Conference on Energy and the Environment
 - SEEDS 2023 Annual Workshop
 - LSE Environment Day 
 - Transport, Energy and Climate Economics Working Group, Governance and Regulation Chair (Université Paris Dauphine)
