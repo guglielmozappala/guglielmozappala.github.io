@@ -13,6 +13,7 @@ redirect_from:
 
 ### 2023
 
+- European Economic Association Congress - EEA-ESEM (scheduled)
 - 28th Annual Conference of the European Association of Environmental and Resource Economists - EAERE (scheduled)
 - Climate Economics Pipeline Workshop, Harvard Kennedy School (scheduled) 
 - Workshop on Political Economy (Universitat de Barcelona, scheduled)
