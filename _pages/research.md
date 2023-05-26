@@ -21,14 +21,6 @@ redirect_from:
 Despite the global nature of changes in climate, local weather shocks have been shown to be detrimental only to local economic activity. This paper introduces the role of input-output sectoral interlinkages as a transmission mechanism of weather shocks in a production network model and tests the empirical implications using a six-sector global dataset from 1975 to 2020. First, I document that agriculture is the most harmed sector by a range of weather shocks, including hot days, droughts, and cyclones. Second, I find that sectors at later stages of the supply chain, though non-responsive to local weather fluctuations, suffer from substantial and persistent losses over time due to heat shocks in agriculture that propagate downstream through sectoral interlinkages. Using counterfactual scenarios, I show a substantial underestimation of the economic cost of temperature increases accounting for heat shocks across trade partners since 2000 and I characterize global losses depending on the sectoral centrality in the production network.
 </details>
 
-[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](/files/Zappala_FAERE_WP2022.02.pdf) <em> FAERE Working Paper, 2022.02 </em> <br/> [Accepted at _Environmental and Resource Economics_. Revised version [here](/files/Drought_exposure_and_accuracy_Motivated_reasoning_in_climate_change_beliefs.pdf)] <br/>
-
-<details>
-<summary> Abstract </summary>
-<br>
-The lack of stringent policies to avert climate change has increased the importance of effective and timely adaptation. Adequate adaptation is particularly important for agricultural communities in developing countries, which may most suffer the consequences of climate change. Evidence is still scarce on how people in the most vulnerable areas form climate change beliefs and whether such beliefs exhibit cognitive biases. Using survey data from rural households in Bangladesh together with a meteorological measure of excess dryness relative to historical averages, I study the effect of long-term average drought exposure and short-term deviations on beliefs about drought frequency and the interpretation of drought events. To explore how individuals interpret past droughts, I use an instrumental variable approach and investigate whether individual beliefs lead to asymmetric distortion of objective information. The results show that individuals recollect and overweight evidence tilted towards their prior beliefs, providing evidence of confirmation bias as a directional motivated reasoning mechanism. The findings highlight the need for models that account for behavioral factors and cognitive biases in the study of climate change beliefs for effective communication and adaptation policies. 
-</details>
-
 **Adapting to climate change accounting for individual beliefs** <br/> [Draft available upon request] <br/> (Previously circulated as "Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh")
 
 <details>
@@ -52,5 +44,13 @@ Weather fluctuations can substantially affect international migration, yet littl
 **Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)
 
 ## Publications
+
+[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**]([/files/Zappala_FAERE_WP2022.02.pdf](https://link.springer.com/article/10.1007/s10640-023-00779-1)) (2023) _Environmental and Resource Economics_ <br/>
+
+<details>
+<summary> Abstract </summary>
+<br>
+The lack of stringent policies to avert climate change has increased the importance of effective and timely adaptation. Adequate adaptation is particularly important for agricultural communities in developing countries, which may most suffer the consequences of climate change. Evidence is still scarce on how people in the most vulnerable areas form climate change beliefs and whether such beliefs exhibit cognitive biases. Using survey data from rural households in Bangladesh together with a meteorological measure of excess dryness relative to historical averages, I study the effect of long-term average drought exposure and short-term deviations on beliefs about drought frequency and the interpretation of drought events. To explore how individuals interpret past droughts, I use an instrumental variable approach and investigate whether individual beliefs lead to asymmetric distortion of objective information. The results show that individuals recollect and overweight evidence tilted towards their prior beliefs, providing evidence of confirmation bias as a directional motivated reasoning mechanism. The findings highlight the need for models that account for behavioral factors and cognitive biases in the study of climate change beliefs for effective communication and adaptation policies. 
+</details>
 
 [**Happier Elderly Residents. The positive impact of physical activity on objective and subjective health condition of elderly people in nursing homes. Evidence from a multi-site randomized controlled trial**](https://link.springer.com/content/pdf/10.1007/s11482-021-09952-4.pdf) (2022) (with Claudia Senik, Carine Milcent, Chloé Gerves-Pinquié and Patricia Dargent-Molina) _Applied Research in Quality of Life_,17(2), 1091-1111
