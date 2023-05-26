@@ -54,3 +54,10 @@ The lack of stringent policies to avert climate change has increased the importa
 </details>
 
 [**Happier Elderly Residents. The positive impact of physical activity on objective and subjective health condition of elderly people in nursing homes. Evidence from a multi-site randomized controlled trial**](https://link.springer.com/content/pdf/10.1007/s11482-021-09952-4.pdf) (2022) (with Claudia Senik, Carine Milcent, Chloé Gerves-Pinquié and Patricia Dargent-Molina) _Applied Research in Quality of Life_,17(2), 1091-1111
+
+<details>
+<summary> Abstract </summary>
+<br>
+We explore the effects of adapted physical exercise programs in nursing homes, in which some residents suffer from dementia and/or physical limitations and others do not. We use data from 452 participants followed over 12 months in 32 retirement homes in four European countries. Using a difference-in-difference with individual random effects model, we show that the program had a significant impact on the number of falls and the self-declared health and health-related quality of life of residents (EQ-5D). The wide scope of this study, in terms of sites, countries, and measured outcomes, brings generality to previously existing evidence. A simple computation, in the case of France, suggests that such programs are highly cost-efficient.
+</details>
+
