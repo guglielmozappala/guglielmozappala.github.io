@@ -45,7 +45,7 @@ Weather fluctuations can substantially affect international migration, yet littl
 
 ## Publications
 
-[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**]([/files/Zappala_FAERE_WP2022.02.pdf](https://link.springer.com/article/10.1007/s10640-023-00779-1)) (2023) _Environmental and Resource Economics_ <br/>
+[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](https://link.springer.com/article/10.1007/s10640-023-00779-1) (2023) _Environmental and Resource Economics_ <br/>
 
 <details>
 <summary> Abstract </summary>
