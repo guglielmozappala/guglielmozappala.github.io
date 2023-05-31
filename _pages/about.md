@@ -16,7 +16,7 @@ I am a PhD candidate at the Paris School of Economics and a research fellow at I
 
 My research focuses on the socio-economic impact of climate change and the human ability to adapt to these impacts, as well as how individuals perceive and form their attitudes towards climate and the role of beliefs in adaptive behavior. <br>
 
-I am partaking in the European Doctoral Programme [(EDP)](https://www.edpqe.eu/), visiting the London School of Economics and the Grantham Research Institute. <br>
+I am partaking in the European Doctoral Programme (EDP), visiting the London School of Economics and the Grantham Research Institute. <br>
 
 In 2022, I have been a visiting research scholar at emLab and Bren School at UC Santa Barbara, hosted by Tamma Carleton. <br>
 
