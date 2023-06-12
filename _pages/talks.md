@@ -16,7 +16,7 @@ redirect_from:
 - European Economic Association Congress - EEA-ESEM (scheduled)
 - 28th Annual Conference of the European Association of Environmental and Resource Economists - EAERE (scheduled)
 - Climate Economics Pipeline Workshop, Harvard Kennedy School (scheduled)
-- EDP Jamboree (scheduled)
+- EDP Jamboree (PSE)
 - Workshop on Political Economy (Universitat de Barcelona)
 - LSE Environmental Economics Graduate Seminar
 - Judgement and Decision Making Lab (JDMLab), University of Padova
