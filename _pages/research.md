@@ -39,7 +39,7 @@ Climate concern as a political priority is crucial for gaining broad public supp
 
 ## Publications
 
-[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](https://link.springer.com/article/10.1007/s10640-023-00779-1) (2023)  <br/> _Environmental and Resource Economics_, 85, 649–672 [[PDF](/files/EARE_Zappala_2023_Motivated_Reasoning.pdf)]
+[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](https://link.springer.com/article/10.1007/s10640-023-00779-1) (2023)  <br/> _Environmental and Resource Economics_, 85, 649–672 [[PDF](/files/EARE_Zappala_2023_Motivated_Reasoning.pdf)] <br/>
 
 <details>
 <summary> Abstract </summary>
