@@ -21,7 +21,7 @@ As part of the European Doctoral Programme (EDP), in 2023 I visited the London S
 In Fall 2023, I will join emLab at UC Santa Barbara as a postdoctoral researcher. <br>
 
 **Contact** <br>
-Email: guglielmo.zappala[at]psemail.eu 
+Email: gzappala[at]ucsb.edu
 \
 \
 Wondering how to pronounce my name? /goo-yell-mo/
