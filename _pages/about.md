@@ -12,13 +12,11 @@ redirect_from:
 <br />
 <!--![github small](/images/nphoto.png) -->
 <img src="/images/nphoto.png" alt="drawing" width="350" height="220" style="float: left; padding-right:15px"/> 
-I am a PhD candidate at the Paris School of Economics and a research fellow at IC Migrations. <br>
+I am a Postdoctoral Researcher at UC Santa Barbara at emLab and the Bren School of Environmental Science & Management, and a research fellow at IC Migrations. <br>
 
 My research focuses on the socio-economic impact of climate change and the human ability to adapt to these impacts, as well as how individuals perceive and form their attitudes towards climate and the role of beliefs in adaptive behavior. <br>
 
-As part of the European Doctoral Programme (EDP), in 2023 I visited the London School of Economics and the Grantham Research Institute. In 2022, I have been a visiting research scholar at the Bren School of Environmental Science & Management at UC Santa Barbara. <br>
-
-In Fall 2023, I will join emLab at UC Santa Barbara as a postdoctoral researcher. <br>
+I obtained my PhD in economics at the Paris School of Economics in 2023, during which I have partaken in the European Doctoral Programme (EDP), visiting the London School of Economics and the Grantham Research Institute. <br>
 
 **Contact** <br>
 Email: gzappala[at]ucsb.edu
