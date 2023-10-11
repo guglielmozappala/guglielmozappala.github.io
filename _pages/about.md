@@ -16,7 +16,7 @@ I am a Postdoctoral Researcher at UC Santa Barbara at emLab and a research fello
 
 My research focuses on the socio-economic impact of climate change and the human ability to adapt to these impacts, as well as how individuals perceive and form their attitudes towards climate and the role of beliefs in adaptive behavior. <br>
 
-I obtained my PhD in economics at the Paris School of Economics in 2023, during which I have partaken in the European Doctoral Programme (EDP), visiting the London School of Economics and the Grantham Research Institute. <br>
+I obtained my PhD in economics at the Paris School of Economics in 2023, during which I have partaken in the European Doctoral Programme (EDP), visiting the London School of Economics, and spent a research stay at UC Santa Barbara. <br>
 
 **Contact** <br>
 Email: gzappala[at]ucsb.edu
