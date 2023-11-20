@@ -13,7 +13,7 @@ redirect_from:
 
 ## Working papers
 
-[**Sectoral impact and propagation of weather shocks**](https://www.imf.org/en/Publications/WP/Issues/2023/03/10/Sectoral-Impact-and-Propagation-of-Weather-Shocks-530798) <em> IMF Working Paper, 2023/053 </em> <br/> [Revised version [here](/files/Sectoral_impact_and_propagation_of_weather_shocks.pdf)]
+[**Sectoral impact and propagation of weather shocks**](https://www.imf.org/en/Publications/WP/Issues/2023/03/10/Sectoral-Impact-and-Propagation-of-Weather-Shocks-530798) <em> IMF Working Paper, 2023/053 </em> <br/> [Most recent version [here](/files/Sectoral_impact_and_propagation_of_weather_shocks.pdf)]
 
 <details>
 <summary> Abstract </summary>
@@ -37,6 +37,14 @@ Mounting evidence that climate is changing requires a better understanding of ho
 Climate concern as a political priority is crucial for gaining broad public support for climate policies. The drivers of climate attitudes have so far been identified in socio-economic and political factors and direct experience of weather shocks. This paper introduces international migration induced by weather variations as a novel determinant of climate concern. The empirical analysis leverages exogenous variation in weather in non-OECD origin countries to construct a gravity-predicted instrument for asylum demands and study their effect on individual climate concern and voting behavior for Green parties in the European Union between 2000 and 2019. Results show that weather-induced asylum applications heighten concern about climate change as a political priority. Changes in stated preferences, however, do not translate into changes in voting behavior, as there is no effect on Green party votes in the European Parliament elections. These findings are consistent with a drop-out of traditional Green voters, changes in preferences for individuals below the voting age, as well as no changes in the pro-environmental policy manifesto of political parties.  
 </details>
 
+**Endogenous green preferences** (with Ravi Vora) <br/> [Draft available upon request]
+
+<details>
+<summary> Abstract </summary>
+<br>
+Low public support has been an obstacle to the enactment of stronger environmental policies. Yet if policies are enacted, preferences for them may change. Using surveys covering 38 countries around the world, we study the dynamics of environmental policies and individual preferences over twenty years. Exploiting within-country, across birth-cohort variation in exposure to environmental policy stringency, we document that cohorts exposed to more stringent policies in the past are more supportive of environmental policies at the time of the survey, with the effect largely driven by exposure during a  period of early adulthood known as the formative age window. As a result, the demand for green policies is endogenous on a societal level. Experience-induced preferences have implications for understanding the evolving political economy of environmental policies and how to characterize the long-term welfare effects.
+</details>
+
 ## Publications
 
 [**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](https://link.springer.com/article/10.1007/s10640-023-00779-1) (2023)  <br/> _Environmental and Resource Economics_, 85, 649–672 [[PDF](/files/EARE_Zappala_2023_Motivated_Reasoning.pdf)] <br/>
@@ -56,7 +64,5 @@ We explore the effects of adapted physical exercise programs in nursing homes, i
 </details>
 
 ## Work in Progress
-
-**Endogenous green preferences** (with Ravi Vora)
 
 **Long-term climatic conditions and global spatial distribution of population** (with Alexander Marbler)
