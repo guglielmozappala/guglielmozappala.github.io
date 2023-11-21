@@ -37,7 +37,7 @@ Mounting evidence that climate is changing requires a better understanding of ho
 Climate concern as a political priority is crucial for gaining broad public support for climate policies. The drivers of climate attitudes have so far been identified in socio-economic and political factors and direct experience of weather shocks. This paper introduces international migration induced by weather variations as a novel determinant of climate concern. The empirical analysis leverages exogenous variation in weather in non-OECD origin countries to construct a gravity-predicted instrument for asylum demands and study their effect on individual climate concern and voting behavior for Green parties in the European Union between 2000 and 2019. Results show that weather-induced asylum applications heighten concern about climate change as a political priority. Changes in stated preferences, however, do not translate into changes in voting behavior, as there is no effect on Green party votes in the European Parliament elections. These findings are consistent with a drop-out of traditional Green voters, changes in preferences for individuals below the voting age, as well as no changes in the pro-environmental policy manifesto of political parties.  
 </details>
 
-**Endogenous green preferences** (with Ravi Vora) <br/> [Draft available upon request]
+**Endogenous green preferences** (with [Ravi Vora](https://sites.google.com/view/ravi-vora)) <br/> [Draft available upon request]
 
 <details>
 <summary> Abstract </summary>
