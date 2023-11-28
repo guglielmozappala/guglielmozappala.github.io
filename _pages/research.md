@@ -21,7 +21,7 @@ redirect_from:
 Despite the intensification of international trade and the fragmentation of production processes, local weather shocks have only been shown to damage local economic activity. This paper introduces the role of input-output sectoral interlinkages as a transmission mechanism of weather shocks in a production network model and tests the empirical implications using a six-sector global dataset from 1975 to 2020. First, I document that agriculture is the most harmed sector by a range of weather shocks, including hot and cold days, droughts, and cyclones. Second, I find that sectors at later stages of the supply chain, though non-responsive to local weather, suffer from substantial and persistent losses over time due to domestic and foreign heat shocks in agriculture that propagate downstream. Using counterfactual scenarios, I show a substantial underestimation of the economic cost of temperature increases accounting for shocks across trade partners since 2000 and I characterize global losses depending on the sectoral centrality in the production network.
 </details>
 
-**Adapting to climate change accounting for individual beliefs** (_R&R at Journal of Development Economics_) <br/> [Draft available upon request] <br/> (Previously circulated as "Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh")
+**Adapting to climate change accounting for individual beliefs** (_Revise and resubmit_) <br/> [Draft available upon request] <br/> (Previously circulated as "Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh")
 
 <details>
 <summary> Abstract </summary>
@@ -29,7 +29,7 @@ Despite the intensification of international trade and the fragmentation of prod
 Mounting evidence that climate is changing requires a better understanding of how individuals adapt. Despite extensive research on various adaptation gaps, including financial and technological constraints, models of adaptive decision-making still rely on perfect information and optimal climate beliefs assumptions. Combining rural households' data in Bangladesh with a meteorological measure of dryness, this paper studies the role of individual beliefs about droughts on irrigation. A theoretical framework introduces how beliefs differentially influence responsiveness to dryness. The empirical analysis reveals an asymmetric response to dryness shocks conditional on prior belief accuracy and a reinforcing effect of beliefs in drier areas, with heterogeneous responses by growing season and irrigation technique. Three additional cognitive mechanisms exploit the intensity and frequency of droughts, comparing self-reported and meteorological records. A counterfactual analysis with meteorologically-formed beliefs shows that farmers underuse irrigation and incur substantial monetary losses as a result of inaccurate beliefs, generating a belief gap. 
 </details>
 
-_NEW_ **Endogenous green preferences** (with [Ravi Vora](https://sites.google.com/view/ravi-vora)) <br/> [Draft available upon request]
+**Endogenous green preferences** (with [Ravi Vora](https://sites.google.com/view/ravi-vora)) <br/> [Draft available upon request]
 
 <details>
 <summary> Abstract </summary>
