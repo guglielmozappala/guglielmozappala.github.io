@@ -34,8 +34,7 @@ Mounting evidence that climate is changing requires a better understanding of ho
 <details>
 <summary> Abstract </summary>
 <br>
-Low public support has been an obstacle to the enactment of stronger environmental policies. Yet if policies are enacted, preferences for them may change. Using surveys covering 38 countries around the world, we study the dynamics of environmental policies and individual preferences over twenty years. Exploiting within-country, across birth-cohort variation in exposure to environmental policy
-stringency, we document that cohorts exposed to more stringent policies in the past are more supportive of environmental policies at the time of the survey, with the effect largely driven by exposure during a period of early adulthood known as the formative age window. Therefore, environmental policy preferences are endogenous on a societal level.
+Low public support has been an obstacle to the enactment of stronger environmental policies. Yet if policies are enacted, preferences for them may change. Using surveys covering 38 countries around the world, we study the dynamics of environmental policies and individual preferences over twenty years. Exploiting within-country, across birth-cohort variation in exposure to environmental policy stringency, we document that cohorts exposed to more stringent policies in the past are more supportive of environmental policies at the time of the survey, with the effect largely driven by exposure during a  period of early adulthood known as the formative age window. Therefore, environmental policy preferences are endogenous on a societal level, with implications for their predictability, as well as their moral and political economy. 
 </details>
 
 **Climate-induced migration and environmental values** <br/> [Draft available upon request]
