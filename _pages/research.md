@@ -21,7 +21,7 @@ redirect_from:
 Despite intensified international trade and production fragmentation, local weather shocks have only been shown to affect local economic activity. This paper introduces input-output sectoral interlinkages as a transmission mechanism of weather shocks in a production network model. Using global sectoral production data from 1975 to 2020, I document that agriculture is the most adversely affected sector by local hot daily temperature shocks. Accounting for network propagation, downstream sectors, non-responsive to local weather, incur substantial and persistent losses due to the ripple effect from agriculture. Counterfactual scenarios reveal a threefold underestimation of aggregate costs induced by temperature increases accounting for shocks across trade partners. The analysis also highlights sectoral centrality in the production network as a determinant of global losses.
 </details>
 
-**Adapting to climate change accounting for individual beliefs** (_Revise and resubmit at JDE_) <br/> [Draft available upon request] <br/> (Previously circulated as "Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh")
+**Adapting to climate change accounting for individual beliefs** (_Revise and resubmit_) <br/> [Draft available upon request] <br/> (Previously circulated as "Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh")
 
 <details>
 <summary> Abstract </summary>
