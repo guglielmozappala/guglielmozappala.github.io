@@ -12,7 +12,7 @@ redirect_from:
 
 ## Teaching
 
-Environmental Economics and Policy, University of Padova (Spring 2021, 2023 - Undergraduate) - Guest lecturer (10h)
+Environmental Economics and Policy, University of Padova (Spring 2021, 2023, 2024 - Undergraduate) - Guest lecturer (10h)
 
 - <ins>Topics</ins>: Attitudes and beliefs towards environmental problems and climate change; Environmental policies: public support; Climate economics and the social cost of carbon; Climate change adaptation and mitigation; Envirodevonomics: economic development and the environment
 
