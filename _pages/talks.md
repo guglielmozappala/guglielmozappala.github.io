@@ -11,6 +11,15 @@ redirect_from:
 
 ## Conferences & Seminars
 
+### 2024
+
+- Workshop on Public Policies (IEB Barcelona, scheduled)
+- AERE Summer Conference (scheduled)
+- MIT Research Workshop on Climate Change Adaptation (invited, scheduled)
+- WU Vienna University of Economics and Business (invited)
+- University of Padova
+- emLab Research Roundtable, UCSB
+
 ### 2023
 
 - OECD Environment Directorate - Brown Bag Lunch Seminar
