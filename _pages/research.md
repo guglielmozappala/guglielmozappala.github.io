@@ -39,7 +39,7 @@ Climate concern as a political priority is crucial for gaining broad public supp
 
 ## Publications
 
-[**Adapting to climate change accounting for individual beliefs**](https://doi.org/10.1016/j.jdeveco.2024.103289) (2024)  <br/> _Journal of Development Economics_, Forthcoming <br/> (Previously circulated as "Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh")
+[**Adapting to climate change accounting for individual beliefs**](https://doi.org/10.1016/j.jdeveco.2024.103289) (2024)  <br/> _Journal of Development Economics_, Forthcoming <br/>
 
 <details>
 <summary> Abstract </summary>
