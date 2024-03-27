@@ -21,14 +21,6 @@ redirect_from:
 Despite intensified international trade and production fragmentation, local weather shocks have only been shown to affect local economic activity. This paper introduces input-output sectoral interlinkages as a transmission mechanism of weather shocks in a production network model. Using global sectoral production data from 1975 to 2020, I document that agriculture is the most adversely affected sector by local hot daily temperature shocks. Accounting for network propagation, downstream sectors, non-responsive to local weather, incur substantial and persistent losses due to the ripple effect from agriculture. Counterfactual scenarios reveal a threefold underestimation of aggregate costs induced by temperature increases accounting for shocks across trade partners. The analysis also highlights sectoral centrality in the production network as a determinant of global losses.
 </details>
 
-[**Adapting to climate change accounting for individual beliefs**](https://doi.org/10.1016/j.jdeveco.2024.103289) (2024)  <br/> _Journal of Development Economics_, Forthcoming <br/> (Previously circulated as "Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh")
-
-<details>
-<summary> Abstract </summary>
-<br>
-As the climate changes, efficient climate policy requires a better understanding of how individuals adapt. Despite extensive research on various climate adaptation frictions, including financial and technological constraints, models of adaptive decision-making assume that agents have perfect information and accurate beliefs about climate. Combining rural household data in Bangladesh with a meteorological measure of dryness, this paper studies the role of individual drought beliefs and their accuracy in irrigation decisions as a key adaptive margin. In a theoretical model, I introduce a behavioral friction to document how heterogeneous beliefs differentially influence responsiveness to the same meteorological signal in dryness. The empirical analysis reveals an asymmetric response to dry shocks in irrigation conditional on the accuracy of prior beliefs. A counterfactual analysis shows lower technology adoption levels and higher monetary losses when beliefs are inaccurate.
-</details>
-
 [**Endogenous green preferences**](/files/VZ_Endogenous_green_preferences.pdf) (with [Ravi Vora](https://sites.google.com/view/ravi-vora)) <br/>
 
 <details>
@@ -46,6 +38,14 @@ Climate concern as a political priority is crucial for gaining broad public supp
 </details>
 
 ## Publications
+
+[**Adapting to climate change accounting for individual beliefs**](https://doi.org/10.1016/j.jdeveco.2024.103289) (2024)  <br/> _Journal of Development Economics_, Forthcoming <br/> (Previously circulated as "Do subjective perceptions shape adaptation to climate change? Evidence from Bangladesh")
+
+<details>
+<summary> Abstract </summary>
+<br>
+As the climate changes, efficient climate policy requires a better understanding of how individuals adapt. Despite extensive research on various climate adaptation frictions, including financial and technological constraints, models of adaptive decision-making assume that agents have perfect information and accurate beliefs about climate. Combining rural household data in Bangladesh with a meteorological measure of dryness, this paper studies the role of individual drought beliefs and their accuracy in irrigation decisions as a key adaptive margin. In a theoretical model, I introduce a behavioral friction to document how heterogeneous beliefs differentially influence responsiveness to the same meteorological signal in dryness. The empirical analysis reveals an asymmetric response to dry shocks in irrigation conditional on the accuracy of prior beliefs. A counterfactual analysis shows lower technology adoption levels and higher monetary losses when beliefs are inaccurate.
+</details>
 
 [**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](https://link.springer.com/article/10.1007/s10640-023-00779-1) (2023)  <br/> _Environmental and Resource Economics_, 85, 649–672 [[PDF](/files/EARE_Zappala_2023_Motivated_Reasoning.pdf)] <br/>
 
