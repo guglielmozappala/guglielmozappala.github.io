@@ -1,0 +1,355 @@
+%-------------------------
+% Resume in Latex
+% Based off of: https://github.com/sb2nov/resume
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{dirtytalk}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{multicol}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \text{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+
+%\begin{center}
+%    \begin{multicols}{2}
+%   \begin{flushleft}
+ %    \href{{your github page link}}{my github}\\
+ %    \href{{your linkedin page link}}{my linkedin}
+  %   \end{flushleft}
+    
+ %    \begin{flushright}
+ %    \href{{your personal websit link}}{my personal site}\\
+ %    \href{mailto:{your email adress}}{my email}
+  %   \end{flushright}
+  %   \end{multicols}
+%\end{center}
+
+
+\centering  \LARGE{\textbf{Guglielmo Zappalà}} \\
+\normalsize
+%%%%%%%%%%%%%%%%% CONTACT INFORMATION %%%%%%%%%%%%%%%%%
+\medskip
+    \small{
+       \clink{
+       Bren School of Environmental Science \& Management, UCSB, Santa Barbara, CA 93106. %4th floor, office 73
+       \\
+       \vspace{0.1cm}
+           \href{mailto:gzappala@ucsb.edu}{gzappala@ucsb.edu} \textbf{·} 
+          %  {\fontdimen2\font=0.75ex +39 348 3747285} 
+ %           \textbf{·} 
+            \href{https://guglielmozappala.github.io}{Personal Website}
+        }
+
+%-----------RESEARCH INTERESTS-----------
+\section{Research Interests}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Primary}: Environmental and Resource Economics, Climate Economics \\
+     \textbf{Secondary}: Applied Microeconomics
+    }}
+ \end{itemize}
+
+ %-----------ACADEMIC APPOINTMENT-----------
+ \section{Academic Positions}
+   \resumeSubHeadingListStart
+         \resumeSubheading
+      {UC Santa Barbara,  emLab}{}
+       {\text{Postdoctoral Researcher}}{2023-}  
+   \resumeSubHeadingListEnd 
+  
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+ \resumeSubheading
+      {Paris School of Economics}{}
+      {PhD Economics}{2020 -- 2023}
+       %\begin{itemize}[leftmargin=0.15in, label={}]
+    %\small{\item{
+    % \textit{Dissertation Title}: Adaptation, beliefs, and impacts: Essays on the economics of climate \\
+	%\textit{Advisor}: Katrin Millock}
+% \end{itemize}
+       % \vspace{-0.2cm}
+               \resumeSubheading
+      {London School of Economics \& Grantham Research Institute}{}
+      {European Doctoral Program Visiting Student}{2023}            
+       \resumeSubheading
+      {UC Santa Barbara}{}
+      {Visiting Research Scholar}{2022}  
+    \resumeSubheading
+      {Paris School of Economics}{}
+      {MSc Analysis and Policy in Economics, \textit{summa cum laude}}{2018 -- 2020}
+%    \resumeSubheading
+%      {Universitat Pompeu Fabra}{}
+%      {BSc Economics - Exchange Semester}{2017 -- 2018}
+          \resumeSubheading
+      {University of Padova}{}
+      {BSc Economics, \textit{110/110 cum laude}}{2015 -- 2018}
+       \begin{itemize}[leftmargin=0.0in, label={}]
+    \small{\item{
+     Universitat Pompeu Fabra - Exchange Semester}
+ \end{itemize}      
+  \resumeSubHeadingListEnd
+
+%-----------Publications-----------
+\section{Publications}
+  \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{ \say{Adapting to climate change accounting for individual beliefs}}.  \href{https://doi.org/10.1016/j.jdeveco.2024.103289}{\textit{Journal of Development Economics}. 169, 103289 (2024).}}\\\\ 
+    \small{\item{
+         \say{Drought exposure and accuracy: Motivated reasoning in climate change beliefs}. \href{https://doi.org/10.1007/s10640-023-00779-1}{ {\textit{Environmental and Resource Economics}, 85, 649–672 (2023)}} \\
+         \small{\item{
+    		\say{Happier Elderly Residents. The positive impact of physical activity on objective and subjective health condition of elderly people in nursing homes. Evidence from a multi-site randomized controlled trial}, with Claudia Senik, Carine Milcent, Chloé Gerves-Pinquié and Patricia Dargent-Molina, \textit{Applied Research in Quality of Life}, 17(2), 1091-1111 (2022) }
+    }}
+ \end{itemize}
+
+%-----------Working Papers-----------
+
+\section{Working Papers}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+        \small{\item{
+         \say{Sectoral impact and propagation of weather shocks} \href{https://www.imf.org/en/Publications/WP/Issues/2023/03/10/Sectoral-Impact-and-Propagation-of-Weather-Shocks-530798}{\textit{IMF Working Paper, 2023/053}}}\\\\               
+         \small{\item{\say{Climate-induced migration and environmental values}}\\
+         \small{\item{		\say{Endogenous green preferences} (with Ravi Vora)\\
+    }}
+ \end{itemize}
+
+%-----------Conferences-----------
+\section{Seminars and Conferences}
+   \resumeSubHeadingListStart
+   \textbf{2024}:  EAERE Annual Conference (scheduled), Workshop on Public Policies (IEB Barcelona, scheduled),  2nd Diversity and Human Capital Workshop: Well-being (University of Exeter,  scheduled),  AERE Summer Conference (scheduled), MIT Research Workshop on Climate Change Adaptation (invited, scheduled),  WU Vienna University of Economics and Business (invited), University of Padova, emLab Research Roundtable
+    \resumeSubHeadingListEnd
+       \resumeSubHeadingListStart
+   \textbf{2023}:  OECD Environment Directorate (invited), EEA-ESEM Congress, EAERE Annual Conference, Climate Economics Workshop, Harvard Kennedy School, EDP Jamboree (PSE), Workshop on Political Economy (Universitat de Barcelona), LSE Environmental Economics Graduate Seminar, Judgement and Decision Making Lab (University of Padova), 11$^\text{th}$ Mannheim Conference on Energy and the Environment, SEEDS 2023 Annual Workshop, LSE Environment Day, Transport, Energy and Climate Economics Working Group (Université Paris-Dauphine), IPWSD (Columbia University), IAERE Annual Conference, University of Padova, ADRES Doctoral Conference
+    \resumeSubHeadingListEnd
+   \resumeSubHeadingListStart   
+    \textbf{2022}: 15$^{\text{th}}$ PhD Workshop in Economics (Collegio Carlo Alberto), Graduate Seminar in International Economics (PSE), Paris Migration Economics Seminar - IC Migrations (PSE), PSE-CREST Informal Workshop in Empirical Environmental Economics, 2$^\text{nd}$ IZA Workshop: Climate Change and Human Wellbeing, IMF Fiscal Affairs Seminar, EEA-ESEM Congress (Bocconi University), EAERE Annual Conference, Royal Economic Society - Symposium of Junior Researchers (University of Warwick), AERE Summer Conference, 19$^\text{th}$ Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara), IAERE Annual Conference, IPWSD (Columbia University), 15$^\text{th}$ RGS Doctoral Conference in Economics, Casual Friday Development Seminar (PSE)
+    \resumeSubHeadingListEnd
+   \resumeSubHeadingListStart
+   \textbf{2021}: Climate Economics Chair (Dauphine University), Behavioural Workgroup (PSE), Bavarian Young Economists’ Meeting, PhD Summer School on Applied Microeconomics - University of Cyprus, Lancaster University and University of Padova,  FAERE Annual Conference, Little Informal Seminar (PSE), SEEDS Annual Workshop (Rome), Irish Postgraduate and Early Career Workshop - IPECE, OSWEET, WICK (Carlo Alberto)
+    \resumeSubHeadingListEnd
+ 
+%-----------EXPERIENCE-----------
+\section{Work Experience}
+  \resumeSubHeadingListStart    
+    \resumeSubheading
+      {IMF - International Monetary Fund}{}
+      {Fund Internship Program - Fiscal Affairs Department}{Summer 2022}  
+    \resumeSubheading
+      {Harvard Business School}{}
+      {Research Assistant to Marco Tabellini}{2019 -- 2021}
+    \resumeSubheading
+      {OECD - Organization for Economic Cooperation and Development}{}
+      {Consultant (PARIS21/Statistics and Data Directorate)}{2019 -- 2022}    \resumeSubheading
+      {Centre National de la Recherche Scientifique (CNRS)}{}
+      {Research Assistant to Jérémie Gignoux and Akiko Suwa-Eisenmann}{Summer 2019}   
+      \resumeSubheading
+      {Paris School of Economics}{}
+      {Research Assistant to Claudia Senik}{Spring 2019}    
+    \resumeSubheading
+      {EconoVision – Economic Research and Consultancy}{}
+      {Junior Consultant}{2017 -- 2018}
+\resumeSubHeadingListEnd
+
+%-----------TEACHING-----------
+\section{Teaching Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {SciencesPo Paris}{}
+      {Lecturer in Applied Econometrics using Stata, Graduate}{2021}   
+     \resumeSubheading
+      {IESEG School of Management}{}
+      {Lecturer in Microeconomics, Undergraduate}{2021, 2022}      
+       \resumeSubheading
+      {Università degli Studi di Padova}{}
+      {Guest Lecturer in Environmental Economics and Policy, Undergraduate (10h)}{2021, 2023, 2024}
+     \resumeSubheading
+      {IESEG School of Management}{}
+      {Lecturer in Macroeconomics, Graduate}{2021, 2022, 2023}
+         \resumeSubHeadingListEnd    
+         
+%-----------Grants-----------
+\section{Awards, Grants and Fellowships}
+   \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+	{\textbf{AERE Scholars Program}, Association of Environmental and Resource Economists}\hfill{\textit{2024-2025}} \\  
+		{\textbf{Conference Travel Grant}, European Economic Association}\hfill{\textit{2023}} \\			{\textbf{Conference Participation Grant}, European Association of Environmental and Resource Economists}\hfill{\textit{2023}} \\    
+	{\textbf{European Doctoral Program in Quantitative Economics (EDP)}, London School of Economics}\hfill{\textit{2023}}\\
+	{\textbf{Conference Travel Grant}, European Economic Association}\hfill{\textit{2022}} \\
+    {\textbf{International Mobility Grant}, College of Doctoral Schools, Paris 1 Panthéon-Sorbonne University}\hfill{\textit{2022}} \\
+    	{\textbf{International Mobility Grant}, Paris School of Economics}\hfill{\textit{2022}} \\
+	{\textbf{Conference Grant}, Young Scholar Initiative (YSI) by Institute for New Economic Thinking (INET)}\hfill{\textit{2021}} \\
+	{\textbf{International Mobility Grant}, Ile-de-France region}\hfill{\textit{2021}} \\
+	{\textbf{Research Fellow}, Institute Convergence Migration}\hfill{\textit{2021 -- Present}} \\
+
+	{\textbf{PhD Grant}, Paris 1 Panthéon-Sorbonne University}\hfill{\textit{2020 -- 2023}} \\
+	{\textbf{International Mobility Scholarship}, University of Padova}\hfill{\textit{2017 -- 2018}}\\
+    }}
+ \end{itemize}
+          
+          
+%-----------Professional Activities   -----------     
+\section{Professional Activities}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Referee}{: Environmental and Resource Economics ($>$1), Environment and Development Economics ($>$1)} \\
+    }}
+ \end{itemize}         
+          
+
+ 
+ 
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Italian (Native), English (Fluent),  French (Intermediate), Spanish (Intermediate)} \\
+     \textbf{Computer}{: R, Stata, QGIS, \LaTeX } \\
+    }}
+ \end{itemize}
+
+%-----------Additional education-----------
+
+\section{Additional Education}
+  \resumeSubHeadingListStart
+       \resumeSubheading
+      {University of Cyprus, Lancaster University and University of Padova, Department of Economics}{}
+      {PhD Summer School on Applied Microeconomics}{2021}  
+    \resumeSubheading
+      {Conservatory of Music \say{C. Pollini}}{}
+      {BA Bassoon Music Performance, 110/110}{2013 -- 2017}      
+  \resumeSubHeadingListEnd
+ 
+%-----------Non-academic publications-----------
+
+%\section{Non-academic publications}
+% \begin{itemize}[leftmargin=0.15in, label={}]
+%    \small{\item{
+%         PARIS21 (2021), Co-ordination Capacity in National Statistical Systems: Background report.\\    
+%    }}
+% \end{itemize} 
+ 
+ %-----------ACTIVITIES-----------
+\section{Activities}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{
+     {Editor-in-chief of Paris School of Economics students’ magazine}\hfill{\textit{2018 -- 2020}} \\
+   {First-Dan Black Belt Taekwon-Do ITF Instructor}\hfill{\textit{2016-}} \\
+    {Bassoonist (Soloist and in Orchestras)}\hfill{\textit{2013-}} \\
+   }}
+ \end{itemize}
+
+%-----------REFERENCES-----------
+%\section{References}
+%\begin{tabular}{l l}
+%\end{tabular}
+
+%-------------------------------------------
+\end{document}
+
