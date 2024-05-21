@@ -23,7 +23,7 @@ redirect_from:
 - AERE Summer Conference (Washington DC, scheduled)
 - MIT Research Workshop on Climate Change Adaptation (Lisbon, invited)
 - WU Vienna University of Economics and Business (invited)
-- University of Padova
+- University of Padova - Economics Seminar
 - emLab Research Roundtable, UCSB
 
 ### 2023
