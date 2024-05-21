@@ -13,9 +13,15 @@ redirect_from:
 
 ### 2024
 
+- 29th Annual Conference of the European Association of Environmental and Resource Economists - EAERE (scheduled)
+- AXA Research Lab on Gender Equality Workshop (Bocconi University, scheduled)
+- AFSE Annual Congress (Bordeaux, scheduled)
 - Workshop on Public Policies (IEB Barcelona, scheduled)
-- AERE Summer Conference (scheduled)
-- MIT Research Workshop on Climate Change Adaptation (invited, scheduled)
+- 2nd Diversity and Human Capital Workshop: Well-being (University of Exeter, scheduled)
+- Grantham Research Institute on Climate Change and the Environment (LSE, scheduled)
+- Early Career Workshop on the Environment, Climate Change and Disasters Socio-economic Impacts and Adaptation (Gran Sasso Science Institute, scheduled)
+- AERE Summer Conference (Washington DC, scheduled)
+- MIT Research Workshop on Climate Change Adaptation (NOVA Lisbon, scheduled)
 - WU Vienna University of Economics and Business (invited)
 - University of Padova
 - emLab Research Roundtable, UCSB
