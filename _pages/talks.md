@@ -33,7 +33,7 @@ redirect_from:
 - 28th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
 - Climate Economics Pipeline Workshop, Harvard Kennedy School
 - EDP Jamboree (PSE)
-- Workshop on Political Economy (Universitat de Barcelona)
+- Workshop on Political Economy (IEB Barcelona)
 - LSE Environmental Economics Graduate Seminar
 - Judgement and Decision Making Lab (JDMLab), University of Padova
 - 11th Mannheim Conference on Energy and the Environment
