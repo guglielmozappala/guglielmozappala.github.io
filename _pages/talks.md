@@ -17,7 +17,7 @@ redirect_from:
 - AXA Research Lab on Gender Equality Workshop (Bocconi University, scheduled)
 - AFSE Annual Congress (Bordeaux, scheduled)
 - Workshop on Public Policies (IEB Barcelona, scheduled)
-- Early Career Workshop on the Environment, Climate Change and Disasters Socio-economic Impacts and Adaptation (Gran Sasso Science Institute, scheduled)
+- Grantham Research Institute on Climate Change and the Environment (LSE, scheduled)
 - 2nd Diversity and Human Capital Workshop: Well-being (University of Exeter, scheduled)
 - Early Career Workshop on the Environment, Climate Change and Disasters Socio-economic Impacts and Adaptation (Gran Sasso Science Institute, scheduled)
 - AERE Summer Conference (Washington DC, scheduled)
