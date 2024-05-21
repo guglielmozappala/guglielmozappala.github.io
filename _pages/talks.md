@@ -21,7 +21,7 @@ redirect_from:
 - Grantham Research Institute on Climate Change and the Environment (LSE, scheduled)
 - Early Career Workshop on the Environment, Climate Change and Disasters Socio-economic Impacts and Adaptation (Gran Sasso Science Institute, scheduled)
 - AERE Summer Conference (Washington DC, scheduled)
-- MIT Research Workshop on Climate Change Adaptation (NOVA Lisbon, scheduled)
+- MIT Research Workshop on Climate Change Adaptation (Lisbon, invited)
 - WU Vienna University of Economics and Business (invited)
 - University of Padova
 - emLab Research Roundtable, UCSB
