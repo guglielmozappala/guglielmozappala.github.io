@@ -19,7 +19,7 @@ redirect_from:
 - Workshop on Public Policies (IEB Barcelona, scheduled)
 - Grantham Research Institute on Climate Change and the Environment (LSE, scheduled)
 - 2nd Diversity and Human Capital Workshop: Well-being (University of Exeter, scheduled)
-- Early Career Workshop on the Environment, Climate Change and Disasters Socio-economic Impacts and Adaptation (Gran Sasso Science Institute, scheduled)
+- Early Career Workshop on the Environment, Climate Change and Disasters - Socio-Economic Impacts and Adaptation (Gran Sasso Science Institute, scheduled)
 - AERE Summer Conference (Washington DC, scheduled)
 - MIT Research Workshop on Climate Change Adaptation (Lisbon, invited)
 - WU Vienna University of Economics and Business (invited)
