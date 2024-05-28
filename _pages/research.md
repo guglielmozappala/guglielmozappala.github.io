@@ -14,7 +14,7 @@ redirect_from:
 ## Working papers
 
 [**Estimating sectoral climate impacts in a global production network**](/files/Networks_climate.pdf) <br/>
-(Previously circulated as ["Sectoral impact and propagation of weather shocks"](https://www.imf.org/en/Publications/WP/Issues/2023/03/10/Sectoral-Impact-and-Propagation-of-Weather-Shocks-530798) in _IMF Working Paper, 2023/053_) 
+(Previously circulated as ["Sectoral impact and propagation of weather shocks"](https://www.imf.org/en/Publications/WP/Issues/2023/03/10/Sectoral-Impact-and-Propagation-of-Weather-Shocks-530798),_IMF Working Paper, 2023/053_) 
 
 <details>
 <summary> Abstract </summary>
