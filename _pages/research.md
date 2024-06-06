@@ -30,6 +30,14 @@ Despite intensified international trade and production fragmentation, local weat
 Low public support has been an obstacle to the enactment of stronger environmental policies. Yet if policies are enacted, preferences for them may change. Using surveys covering 38 countries around the world, we study the dynamics of environmental policies and individual preferences over twenty years. Exploiting within-country, across birth-cohort variation in exposure to environmental policy stringency, we document that cohorts exposed to more stringent policies in the past are more supportive of environmental policies at the time of the survey, with the effect largely driven by exposure during a  period of early adulthood known as the formative age window. Therefore, environmental policy preferences are endogenous on a societal level, with implications for their predictability, as well as their moral and political economy. 
 </details>
 
+[**Co-benefits of opioid reformulation on temperature and intimate partner violence**](/files/PZ_Opioids.pdf) (with [Filippo Pavanello](https://fpavanello.github.io/)) <br/>
+
+<details>
+<summary> Abstract </summary>
+<br>
+Intimate Partner Violence (IPV) is a critical public health concern often linked to substance abuse. Environmental factors can exacerbate substance addiction and use, potentially leading to increased violence. Building on prior work showing that higher temperatures increase violent behavior, we investigate whether substance abuse regulations affect the relationship between temperature and IPV. Leveraging administrative data combined with random fluctuations in daily temperature the jurisdiction level in the United States, we document that an exogenous abuse-deterrent reformulation of opioids in 2010 significantly attenuates the temperature-IPV relationship in counties with higher initial rates of prescription opioid usage. Our main mechanism suggests an indirect reduction in the complementary use of other substances, particularly alcohol, during hot days. Our findings indicate that policies targeting substance abuse may have co-benefits in mitigating the adverse effects of temperature increases.
+</details>
+
 **Climate-induced migration and environmental values** <br/> [Draft available upon request]
 
 <details>
