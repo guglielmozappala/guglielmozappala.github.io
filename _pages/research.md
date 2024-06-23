@@ -48,7 +48,7 @@ Climate concern as a political priority is crucial for gaining broad public supp
 
 ## Publications
 
-[**Adapting to climate change accounting for individual beliefs**](https://doi.org/10.1016/j.jdeveco.2024.103289) (2024)  <br/> _Journal of Development Economics_, Forthcoming <br/>
+[**Adapting to climate change accounting for individual beliefs**](https://doi.org/10.1016/j.jdeveco.2024.103289) (2024)  <br/> _Journal of Development Economics_, 169, 103289. <br/>
 
 <details>
 <summary> Abstract </summary>
