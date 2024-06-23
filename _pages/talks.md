@@ -14,11 +14,11 @@ redirect_from:
 ### 2024
 
 - 29th Annual Conference of the European Association of Environmental and Resource Economists - EAERE (scheduled)
-- AXA Research Lab on Gender Equality Workshop (Bocconi University, scheduled)
-- AFSE Annual Congress (Bordeaux, scheduled)
-- Workshop on Public Policies (IEB Barcelona, scheduled)
-- Grantham Research Institute on Climate Change and the Environment (LSE, scheduled)
-- 2nd Diversity and Human Capital Workshop: Well-being (University of Exeter, scheduled)
+- AXA Research Lab on Gender Equality Workshop (Bocconi University)
+- AFSE Annual Congress (Bordeaux)
+- Workshop on Public Policies (IEB Barcelona)
+- Grantham Research Institute on Climate Change and the Environment (LSE)
+- 2nd Diversity and Human Capital Workshop: Well-being (University of Exeter)
 - Early Career Workshop on the Environment, Climate Change and Disasters - Socio-Economic Impacts and Adaptation (Gran Sasso Science Institute)
 - AERE Summer Conference (Washington DC)
 - MIT Research Workshop on Climate Change Adaptation (Lisbon, invited)
