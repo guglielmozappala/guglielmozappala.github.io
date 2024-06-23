@@ -19,7 +19,7 @@ redirect_from:
 <details>
 <summary> Abstract </summary>
 <br>
-Despite intensified international trade and production fragmentation, local weather shocks have only been shown to affect local economic activity. This paper introduces input-output sectoral interlinkages as a transmission mechanism of weather shocks in a production network model. Using global sectoral production data from 1975 to 2020, I document that agriculture is the most adversely affected sector by local hot daily temperature shocks. Accounting for network propagation, downstream sectors, non-responsive to local weather, incur substantial and persistent losses due to the ripple effect from agriculture. Counterfactual scenarios reveal a threefold underestimation of aggregate costs induced by temperature increases accounting for shocks across trade partners. The analysis also highlights sectoral centrality in the production network as a determinant of global losses.
+Despite intensified international trade and production fragmentation, weather shocks have only been shown to affect local economic activity. This paper introduces input-output sectoral interlinkages as a transmission mechanism of weather shocks in a production network model. Using global sectoral production data from 1975 to 2020, I document that local daily temperature shocks negatively affect the agricultural sector. Accounting for network propagation, downstream sectors, which are non-responsive to local weather, incur substantial and persistent losses from temperature shocks in the upstream agricultural sector. Counterfactual scenarios reveal a threefold underestimation of aggregate costs induced by temperature increases accounting for shocks across trade partners. The analysis also highlights sectoral centrality in the production network as a determinant of global losses.
 </details>
 
 [**Endogenous green preferences**](/files/VZ_Endogenous_green_preferences.pdf) (with [Ravi Vora](https://sites.google.com/view/ravi-vora)) <br/>
@@ -30,7 +30,7 @@ Despite intensified international trade and production fragmentation, local weat
 Low public support has been an obstacle to the enactment of stronger environmental policies. Yet if policies are enacted, preferences for them may change. Using surveys covering 38 countries around the world, we study the dynamics of environmental policies and individual preferences over twenty years. Exploiting within-country, across birth-cohort variation in exposure to environmental policy stringency, we document that cohorts exposed to more stringent policies in the past are more supportive of environmental policies at the time of the survey, with the effect largely driven by exposure during a  period of early adulthood known as the formative age window. Therefore, environmental policy preferences are endogenous on a societal level, with implications for their predictability, as well as their moral and political economy. 
 </details>
 
-[**Co-benefits of opioid reformulation on temperature and intimate partner violence**](/files/PZ_Opioids.pdf) (with [Filippo Pavanello](https://fpavanello.github.io/)) <br/>
+[**Co-benefits of substance abuse regulation on temperature and intimate partner violence**](/files/PZ_Opioids.pdf) (with [Filippo Pavanello](https://fpavanello.github.io/)) <br/>
 
 <details>
 <summary> Abstract </summary>
