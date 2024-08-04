@@ -13,14 +13,16 @@ redirect_from:
 
 ### 2024
 
-- 29th Annual Conference of the European Association of Environmental and Resource Economists - EAERE (scheduled)
+- Camp Resources XXX 
+- 29th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
+- Imperial College London (invited)
 - AXA Research Lab on Gender Equality Workshop (Bocconi University)
-- AFSE Annual Congress (Bordeaux)
+- AFSE Annual Congress
 - Workshop on Public Policies (IEB Barcelona)
 - Grantham Research Institute on Climate Change and the Environment (LSE)
 - 2nd Diversity and Human Capital Workshop: Well-being (University of Exeter)
 - Early Career Workshop on the Environment, Climate Change and Disasters - Socio-Economic Impacts and Adaptation (Gran Sasso Science Institute)
-- AERE Summer Conference (Washington DC)
+- AERE Summer Conference
 - MIT Research Workshop on Climate Change Adaptation (Lisbon, invited)
 - WU Vienna University of Economics and Business (invited)
 - University of Padova - Economics Seminar
@@ -28,13 +30,13 @@ redirect_from:
 ### 2023
 
 - OECD Environment Directorate - Brown Bag Lunch Seminar
-- European Economic Association Congress - EEA-ESEM (Barcelona)
+- European Economic Association Congress - EEA-ESEM
 - 28th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
 - Climate Economics Pipeline Workshop, Harvard Kennedy School
 - EDP Jamboree (PSE)
 - Workshop on Political Economy (IEB Barcelona)
 - LSE Environmental Economics Graduate Seminar
-- Judgement and Decision Making Lab (JDMLab), University of Padova
+- Judgement and Decision Making Lab (JDMLab) - University of Padova
 - 11th Mannheim Conference on Energy and the Environment
 - SEEDS 2023 Annual Workshop
 - LSE Environment Day 
@@ -52,10 +54,10 @@ redirect_from:
 - PSE-CREST Informal Workshop in Empirical Environmental Economics
 - 2nd IZA Workshop: Climate Change and Human Wellbeing (online)
 - IMF Fiscal Affairs Seminar
-- European Economic Association Congress - EEA-ESEM (Bocconi University)
-- 27th Annual Conference of the European Association of Environmental and Resource Economists - EAERE (Rimini)
+- European Economic Association Congress - EEA-ESEM
+- 27th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
 - Royal Economic Society - Symposium of Junior Researchers (University of Warwick)
-- Association of Environmental and Resource Economists Summer Conference - AERE (Miami)
+- Association of Environmental and Resource Economists Summer Conference - AERE
 - 19th Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara)
 - 10th Italian Association of Environmental and Resource Economists Annual Conference - IAERE (Cagliari)
 - 13th Annual Interdisciplinary PhD Workshop in Sustainable Development - IPWSD (Columbia University)
