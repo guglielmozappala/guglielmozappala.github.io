@@ -12,7 +12,7 @@ redirect_from:
 <br />
 <!--![github small](/images/nphoto.png) -->
 <img src="/images/nphoto.png" alt="drawing" width="350" height="220" style="float: left; padding-right:15px"/> 
-I am a Postdoctoral Researcher at emLab at UC Santa Barbara and a research fellow at IC Migrations. <br>
+I am a Postdoctoral Researcher at UC Berkeley and a research fellow at IC Migrations. <br>
 
 My research focuses on the socio-economic impact of climate change and the human ability to adapt to these impacts, as well as how individuals perceive and form their attitudes towards climate and the role of beliefs in adaptive behavior. <br>
 
