@@ -47,7 +47,7 @@ Climate awareness is crucial for gaining broad public support for climate polici
 
 ## Publications
 
-**Adaptation to climate change** (Forthcoming)  <br/> _Handbook of Climate Economics, Volume 1, Elsevier (eds. Lint Barrage and Solomon Hsiang)_, (with [Tamma Carleton](https://www.tammacarleton.com/), [Esther Duflo](https://economics.mit.edu/people/faculty/esther-duflo), [Kelsey Jack](https://kelseyjack.bren.ucsb.edu/)) <br/>
+**Adaptation to climate change** (Forthcoming) (with [Tamma Carleton](https://www.tammacarleton.com/), [Esther Duflo](https://economics.mit.edu/people/faculty/esther-duflo), [Kelsey Jack](https://kelseyjack.bren.ucsb.edu/)) <br/> _Handbook of Climate Economics, Volume 1, Elsevier (eds. Lint Barrage and Solomon Hsiang)_ <br/>
 
 <details>
 <summary> Abstract </summary>
