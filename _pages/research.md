@@ -63,7 +63,7 @@ Mounting costs of anthropogenic climate change reveal that adaptation will be es
 As the climate changes, efficient climate policy requires a better understanding of how individuals adapt. Despite extensive research on various climate adaptation frictions, including financial and technological constraints, models of adaptive decision-making assume that agents have perfect information and accurate beliefs about climate. Combining rural household data in Bangladesh with a meteorological measure of dryness, this paper studies the role of individual drought beliefs and their accuracy in irrigation decisions as a key adaptive margin. In a theoretical model, I introduce a behavioral friction to document how heterogeneous beliefs differentially influence responsiveness to the same meteorological signal in dryness. The empirical analysis reveals an asymmetric response to dry shocks in irrigation conditional on the accuracy of prior beliefs. A counterfactual analysis shows lower technology adoption levels and higher monetary losses when beliefs are inaccurate.
 </details>
 
-[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](https://link.springer.com/article/10.1007/s10640-023-00779-1) (2023)  <br/> _Environmental and Resource Economics_, 85, 649–672 [[PDF](/files/EARE_Zappala_2023_Motivated_Reasoning.pdf)] <br/>
+[**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](https://link.springer.com/article/10.1007/s10640-023-00779-1) (2023)  <br/> _Environmental and Resource Economics_, 85, 649–672 [[PDF](/files/zappala2023.pdf)] <br/>
 
 <details>
 <summary> Abstract </summary>
