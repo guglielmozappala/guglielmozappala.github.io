@@ -12,11 +12,11 @@ redirect_from:
 
 ## Teaching
 
-Environmental Economics and Policy, _University of Padova_ (2021, 2023, 2024 - BSc Economics) - Guest lecturer (10h)
+Environmental Economics and Policy, _University of Padova_ (2021, 2023, 2024 - BSc Economics) - Adjunct instruction (10h)
 
 - <ins>Topics</ins>: Attitudes and beliefs towards environmental problems and climate change; Environmental policies: public support; Climate economics and the social cost of carbon; Climate change adaptation and mitigation; Envirodevonomics: economic development and the environment
 
-Applied Econometrics, _SciencesPo Paris_ (2021 - Graduate) - Main instructor
+Applied Econometrics, _SciencesPo Paris_ (2021 - Graduate) - Main instructor (24h)
 
 - <ins>Topics</ins>: OLS, Binary dependent variable models, Instrumental variables, Panel data
 
