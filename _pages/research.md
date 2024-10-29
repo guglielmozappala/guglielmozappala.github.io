@@ -82,6 +82,6 @@ We explore the effects of adapted physical exercise programs in nursing homes, i
 
 ## (Selected) Works in Progress
 
-**The impacts of climate change on human migration** (with [Tamma Carleton](https://www.tammacarleton.com/), [Levi Crews](https://www.levicrews.com/), [Ishan Nath](https://www.ishannath.com/))
-**Yielding resilience: Crop insurance in a warming world** (with [Patrick Baylis](https://www.patrickbaylis.com/), [Talha Naeem](https://www.talhanaeem.com/home))
-**Long-term climatic conditions and global spatial distribution of population** (with [Alexander Marbler](https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=en&oi=ao))
+**The impacts of climate change on human migration** (with [Tamma Carleton](https://www.tammacarleton.com/), [Levi Crews](https://www.levicrews.com/), [Ishan Nath](https://www.ishannath.com/))<br/>
+**Yielding resilience: Crop insurance in a warming world** (with [Patrick Baylis](https://www.patrickbaylis.com/), [Talha Naeem](https://www.talhanaeem.com/home))<br/>
+**Long-term climatic conditions and global spatial distribution of population** (with [Alexander Marbler](https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=en&oi=ao))<br/>
