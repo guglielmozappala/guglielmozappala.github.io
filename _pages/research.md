@@ -86,8 +86,8 @@ We explore the effects of adapted physical exercise programs in nursing homes, i
 
 **Yielding resilience: Crop insurance in a warming world** (with [Patrick Baylis](https://www.patrickbaylis.com/), [Talha Naeem](https://www.talhanaeem.com/home))<br/>
 <details>
-_Status_: Field Preparation
-_Funding_: International Growth Centre, CIDER Small Grants
+_Status_: Field Preparation <br/>
+_Funding_: International Growth Centre, CIDER Small Grants <br/>
 </details>
 
 **Long-term climatic conditions and global spatial distribution of population** (with [Alexander Marbler](https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=en&oi=ao))<br/>
