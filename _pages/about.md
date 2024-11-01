@@ -16,7 +16,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher at UC Berkeley in the Department of Agricultural and Resource Economics. <br>
 
-My research focuses on the socio-economic impact of climate change and the humanity’s ability to adapt to these impacts, with particular emphasis on the role of individual beliefs and of public policies in shaping adaptive behavior. <br>
+My research focuses on the socio-economic impacts of climate change and humanity’s ability to adapt to these impacts, with particular interest in the role of individual beliefs and of public policies in shaping adaptive behavior. My research also examines the determinants of environmental preferences and of public support for climate policies. <br>
 
 I obtained my PhD in Economics at the Paris School of Economics in 2023. My dissertation was awarded the Best Doctoral Dissertation Award from the [European Association of Environmental and Resource Economists](https://www.eaere.org/best-european-doctoral-dissertation-award) and the Best Dissertation Award from the [French Economic Association (AFSE)](https://www.afse.fr/fr/news/laureats-du-prix-de-these-de-l-afse-2024-2356?langue_selected=fr). <br>
 
