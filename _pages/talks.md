@@ -13,6 +13,8 @@ redirect_from:
 
 ### 2024
 
+-  Heartland Environmental and Resource Economics Workshop
+-  AERNA - CE3 Durham Online seminar in Environmental and Resource Economics (invited)
 - Camp Resources XXX 
 - 29th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
 - Imperial College London (invited)
