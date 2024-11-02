@@ -14,7 +14,7 @@ redirect_from:
 <img src="/images/nphoto.png" alt="drawing" width="350" height="220" style="float: left; padding-right:15px"/> 
 
 
-I am a Postdoctoral Researcher at UC Berkeley in the Department of Agricultural and Resource Economics. <br>
+I am a (pre-market) Postdoctoral Researcher at UC Berkeley in the Department of Agricultural and Resource Economics. <br>
 
 My research focuses on the socio-economic impacts of climate change and humanity’s ability to adapt to these impacts, with particular interest in the role of individual beliefs and of public policies in shaping adaptive behavior. Part of my research also examines the determinants of environmental preferences and of public support for climate policies. <br>
 
