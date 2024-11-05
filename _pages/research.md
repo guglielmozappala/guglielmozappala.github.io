@@ -13,7 +13,7 @@ redirect_from:
 
 ## Working papers
 
-[**Propagation of extreme heat in agriculture across sectors and space**](/files/zappala_jmp.pdf) <br/> 
+[**Propagation of extreme heat in agriculture across sectors and space**](/files/zappala_jmp.pdf) [Job Market Paper] <br/> 
 (An earlier version circulated as ["Sectoral impact and propagation of weather shocks"](https://www.imf.org/en/Publications/WP/Issues/2023/03/10/Sectoral-Impact-and-Propagation-of-Weather-Shocks-530798), _IMF Working Paper, 2023/053_) 
 
 <details>
