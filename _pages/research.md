@@ -22,20 +22,20 @@ redirect_from:
 Agriculture is widely recognized as one of the sectors most vulnerable to extreme temperatures. Yet, crop losses are estimated to form only a modest share of aggregate macroeconomic damages from climate change, since agriculture accounts for a small share of global GDP. These estimates, however, arise from analyses that largely ignore the critical role of agriculture as an upstream sector in global production networks, including the sectoral and spatial linkages connecting local agricultural output to other sectors and regions. In this paper, I develop a a novel reduced form method to incorporate input linkages between sectors and countries that I use to estimate the aggregate impacts of extreme heat in agriculture. A multi-region multi-sector production network model illustrates how extreme heat in agriculture can propagate to downstream sectors across countries by reducing supply availability and increasing intermediate input prices. Exploiting the geographic distribution and temperature sensitivity of 118 crops across the world, I construct a measure of exposure to extreme heat in agriculture and show that it induces substantial losses to downstream sectors, across national borders, and beyond first degree linkages. Counterfactual exercises reveal that input linkages are responsible for approximately 70\% of the total value added losses induced by extreme heat in agriculture. The analysis additionally demonstrates the critical role of countries that are central to global production networks, suggesting that local benefits from adaptation in such regions can have substantial co-benefits downstream and in other locations.
 </details>
 
-[**Endogenous green preferences**](/files/VZ_Endogenous_green_preferences.pdf) (with [Ravi Vora](https://sites.google.com/view/ravi-vora-)) <br/>
-
-<details>
-<summary> Abstract </summary>
-<br>
-Low public support often impedes more stringent environmental policies. But if policies are enacted, do they change individual preferences? Using surveys covering 38 countries around the world, we study the effect of exposure to environmental policies on policy preferences. Exploiting within-country-year, across birth-cohort variation, we document that cohorts exposed to more stringent policies in the past are more supportive of environmental policies at the time of the survey, with the effect largely driven by exposure during early adulthood. This relationship suggests that a society’s environmental policy attitudes evolve endogenously, with implications for the frameworks we use to evaluate the normative appropriateness, predictability, and political economy of these measures.
-</details>
-
 [**Co-benefits of substance abuse regulation on temperature and intimate partner violence**](/files/PZ_Opioids.pdf) (with [Filippo Pavanello](https://fpavanello.github.io/)) <br/>
 
 <details>
 <summary> Abstract </summary>
 <br>
 Intimate Partner Violence (IPV) is a critical public health concern often linked to substance abuse. Environmental factors can exacerbate substance addiction and use, potentially leading to increased violence. Building on prior work showing that higher temperatures increase violent behavior, we investigate whether substance abuse regulations affect the relationship between temperature and IPV. Leveraging administrative data combined with random fluctuations in daily temperature the jurisdiction level in the United States, we document that an exogenous abuse-deterrent reformulation of opioids in 2010 significantly attenuates the temperature-IPV relationship in counties with higher initial rates of prescription opioid usage. Our main mechanism suggests an indirect reduction in the complementary use of other substances, particularly alcohol, during hot days. Our findings indicate that policies targeting substance abuse may have co-benefits in mitigating the adverse effects of temperature increases.
+</details>
+
+[**Endogenous green preferences**](/files/VZ_Endogenous_green_preferences.pdf) (with [Ravi Vora](https://sites.google.com/view/ravi-vora-)) <br/>
+
+<details>
+<summary> Abstract </summary>
+<br>
+Low public support often impedes more stringent environmental policies. But if policies are enacted, do they change individual preferences? Using surveys covering 38 countries around the world, we study the effect of exposure to environmental policies on policy preferences. Exploiting within-country-year, across birth-cohort variation, we document that cohorts exposed to more stringent policies in the past are more supportive of environmental policies at the time of the survey, with the effect largely driven by exposure during early adulthood. This relationship suggests that a society’s environmental policy attitudes evolve endogenously, with implications for the frameworks we use to evaluate the normative appropriateness, predictability, and political economy of these measures.
 </details>
 
 [**Climate-induced migration and environmental values**](/files/zappala_migration_values.pdf) <br/>
