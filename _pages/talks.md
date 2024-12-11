@@ -13,7 +13,7 @@ redirect_from:
 
 ### 2025
 
-- Political Economics of Environmental Sustainability (Stanford University)
+- Political Economics of Environmental Sustainability (Stanford University, scheduled)
 
 ### 2024
 
