@@ -48,12 +48,12 @@ Climate awareness is crucial for gaining public support for climate policies. Pr
 
 ## Publications
 
-[**Adaptation to climate change**](/files/CDJZ_chapter.pdf) (Forthcoming) (with [Tamma Carleton](https://www.tammacarleton.com/), [Esther Duflo](https://economics.mit.edu/people/faculty/esther-duflo), [Kelsey Jack](https://kelseyjack.bren.ucsb.edu/)) <br/> _[Handbook of the Economics of Climate Change, Volume 1, Elsevier](https://shop.elsevier.com/books/handbook-of-the-economics-of-climate-change/barrage/978-0-443-31324-0) (eds. Lint Barrage and Solomon Hsiang)_ <br/>
+[**Adaptation to climate change**](/files/CDJZ_chapter.pdf) (Forthcoming) (with [Tamma Carleton](https://www.tammacarleton.com/), [Esther Duflo](https://economics.mit.edu/people/faculty/esther-duflo), [Kelsey Jack](https://kelseyjack.bren.ucsb.edu/)) <br/> _[Handbook of the Economics of Climate Change, Volume 1, Elsevier](https://doi.org/10.1016/bs.hesecc.2024.10.001) (eds. Lint Barrage and Solomon Hsiang)_ <br/>
 
 <details>
 <summary> Abstract </summary>
 <br>
-Mounting costs of anthropogenic climate change reveal that adaptation will be essential to human well-being in coming decades. At the same time, the literature on the economics of adaptation offers relatively little guidance for emerging policy. In this chapter, we review the existing literature, focusing on how it can better inform adaptation policy design and implementation. A simple conceptual model of adaptation decision-making describes two core adaptation channels that we link to two streams of adaptation literature, which have emerged largely in parallel. We outline how insights from these literatures can be used for adaptation policy evaluation, highlight key limitations of public intervention in private adaptation markets, and provide guidance and opportunities for future work.
+Mounting costs of anthropogenic climate change reveal that adaptation will be essential to human well-being in coming decades. At the same time, the literature on the economics of adaptation offers relatively little guidance for emerging policy. In this chapter, we review the existing literature, focusing on how it can better inform adaptation policy design and implementation. A simple conceptual model of adaptation decision-making describes two core adaptation channels that we link to two streams of adaptation literature, which have emerged largely in parallel. We outline how insights from these literatures can be used for adaptation policy evaluation, highlight key limitations of and opportunities for public intervention in private adaptation markets, and provide guidance for future work.
 </details>
 
 [**Adapting to climate change accounting for individual beliefs**](https://doi.org/10.1016/j.jdeveco.2024.103289) (2024)  <br/> _Journal of Development Economics_, 169, 103289. <br/>
