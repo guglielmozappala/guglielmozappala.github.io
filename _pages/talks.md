@@ -13,6 +13,7 @@ redirect_from:
 
 ### 2025
 
+- CESifo Area Conference on Energy and Climate Economics (scheduled)
 - Political Economics of Environmental Sustainability (Stanford University, scheduled)
 
 ### 2024
