@@ -13,6 +13,7 @@ redirect_from:
 
 ### 2025
 
+- CEPR Workshop on People’s Understanding of and Support for Economic Policies (scheduled)
 - CESifo Area Conference on Energy and Climate Economics (scheduled)
 - Political Economics of Environmental Sustainability (Stanford University, scheduled)
 
