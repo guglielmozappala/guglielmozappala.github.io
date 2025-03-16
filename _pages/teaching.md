@@ -20,10 +20,10 @@ Applied Econometrics, _SciencesPo Paris_ (2021 - Graduate) - Main instructor (24
 
 - <ins>Topics</ins>: OLS, Binary dependent variable models, Instrumental variables, Panel data
 
-Imperfectly Competitive Markets, _IÉSEG School of Management_  (Fall 2021, 2022 - Undergraduate) - Main instructor
+Imperfectly Competitive Markets, _IÉSEG School of Management_  (2021, 2022 - Undergraduate) - Main instructor
 
 - <ins>Topics</ins>: Market forms and market power, Strategic interaction under oligopoly, Profit maximization under monopoly power
 
-Business Cycles, _IÉSEG School of Management_ (Winter 2020, 2021, 2022 - Graduate) - Main instructor
+Business Cycles, _IÉSEG School of Management_ (2020, 2021, 2022 - Graduate) - Main instructor
 
 - <ins>Topics</ins>: Business cycles and macroeconomic uncertainty, National accounting, Balance of payments, Relationships between unemployment, inflation, output and money growth, Exchange rate regimes
