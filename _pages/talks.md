@@ -15,9 +15,9 @@ redirect_from:
 
 - ifo workshop on the Economics of Adaptation to Climate Change (scheduled)
 - CEPR Workshop on People’s Understanding of and Support for Economic Policies (University of St. Gallen, scheduled)
-- CESifo Area Conference on Energy and Climate Economics (scheduled)
-- Workshop in Sustainable Economics (Università della Svizzera italiana, scheduled)
-- Workshop on Pro-Environmental Behavior: Drivers and Consequences - Max Planck Society  (scheduled)
+- CESifo Area Conference on Energy and Climate Economics
+- Workshop in Sustainable Economics (Università della Svizzera italiana)
+- Workshop on Pro-Environmental Behavior: Drivers and Consequences - Max Planck Society
 - Political Economics of Environmental Sustainability (Stanford University)
 
 ### 2024
