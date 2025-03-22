@@ -34,7 +34,7 @@ redirect_from:
 - 2nd Diversity and Human Capital Workshop: Well-being (University of Exeter)
 - Early Career Workshop on the Environment, Climate Change and Disasters - Socio-Economic Impacts and Adaptation (Gran Sasso Science Institute)
 - AERE Summer Conference
-- MIT Research Workshop on Climate Change Adaptation (Lisbon)
+- MIT Research Workshop on Climate Change Adaptation
 - WU Vienna University of Economics and Business
 - University of Padova - Economics Seminar
 
