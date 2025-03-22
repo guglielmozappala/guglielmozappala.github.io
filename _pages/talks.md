@@ -13,8 +13,8 @@ redirect_from:
 
 ### 2025
 
-- ifo workshop on the Economics of Adaptation to Climate Change (scheduled)
-- CEPR Workshop on People’s Understanding of and Support for Economic Policies (University of St. Gallen, scheduled)
+- ifo workshop on the Economics of Adaptation to Climate Change
+- CEPR Workshop on People’s Understanding of and Support for Economic Policies (University of St. Gallen)
 - CESifo Area Conference on Energy and Climate Economics
 - Workshop in Sustainable Economics (Università della Svizzera italiana)
 - Workshop on Pro-Environmental Behavior: Drivers and Consequences - Max Planck Society
@@ -23,10 +23,10 @@ redirect_from:
 ### 2024
 
 - Heartland Environmental and Resource Economics Workshop
-- AERNA - CE3 Durham Online seminar in Environmental and Resource Economics (invited)
+- AERNA - CE3 Durham Online seminar in Environmental and Resource Economics
 - Camp Resources XXX 
 - 29th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
-- Imperial College London (invited)
+- Imperial College London
 - AXA Research Lab on Gender Equality Workshop (Bocconi University)
 - AFSE Annual Congress
 - Workshop on Public Policies (IEB Barcelona)
@@ -34,8 +34,8 @@ redirect_from:
 - 2nd Diversity and Human Capital Workshop: Well-being (University of Exeter)
 - Early Career Workshop on the Environment, Climate Change and Disasters - Socio-Economic Impacts and Adaptation (Gran Sasso Science Institute)
 - AERE Summer Conference
-- MIT Research Workshop on Climate Change Adaptation (Lisbon, invited)
-- WU Vienna University of Economics and Business (invited)
+- MIT Research Workshop on Climate Change Adaptation (Lisbon)
+- WU Vienna University of Economics and Business
 - University of Padova - Economics Seminar
 
 ### 2023
