@@ -20,6 +20,8 @@ My research focuses on the socio-economic impacts of climate change and humanity
 
 I obtained my PhD in Economics at the Paris School of Economics in 2023. My dissertation was awarded the Best Doctoral Dissertation Award from the [European Association of Environmental and Resource Economists](https://www.eaere.org/best-european-doctoral-dissertation-award) and from the [French Economic Association (AFSE)](https://www.afse.fr/fr/news/laureats-du-prix-de-these-de-l-afse-2024-2356?langue_selected=fr). <br>
 
+In summer 2025, I will join Harvard University as a Postdoctoral Researcher, and after that, Bocconi University as an Assistant Professor.
+
 **Contact** <br>
 Email: gzappala[at]berkeley.edu
 \
