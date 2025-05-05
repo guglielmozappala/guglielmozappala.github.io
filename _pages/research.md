@@ -31,6 +31,7 @@ Intimate Partner Violence (IPV) is a critical public health concern often linked
 </details>
 
 [**Endogenous green preferences**](/files/VZ_Endogenous_green_preferences.pdf) (with [Ravi Vora](https://sites.google.com/view/ravi-vora-)) <br/>
+[_CESifo Working Paper No. 11857, 2025_](https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp11857.pdf) <br/>
 
 <details>
 <summary> Abstract </summary>
