@@ -31,12 +31,12 @@ Intimate Partner Violence (IPV) is a critical public health concern often linked
 </details>
 
 [**Endogenous green preferences**](/files/VZ_Endogenous_green_preferences.pdf) (with [Ravi Vora](https://sites.google.com/view/ravi-vora-)) <br/>
-[_CESifo Working Paper No. 11857, 2025_](https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp11857.pdf) <br/>
+[_CESifo Working Paper No. 11857 (2025)_](https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp11857.pdf) <br/>
 
 <details>
 <summary> Abstract </summary>
 <br>
-Low public support often impedes more stringent environmental policies. But if policies are enacted, do they change individual preferences? Using surveys covering 38 countries around the world, we study the effect of exposure to environmental policies on policy preferences. Exploiting within-country-year, across birth-cohort variation, we document that cohorts exposed to more stringent policies in the past are more supportive of environmental policies at the time of the survey, with the effect largely driven by exposure during early adulthood. This relationship suggests that a society’s environmental policy attitudes evolve endogenously, with implications for the frameworks we use to evaluate the normative appropriateness, predictability, and political economy of these measures.
+Stringent environmental policies often lack public support. But after policies are enacted, do individual preferences about them change? Using surveys covering 38 countries around the world, we study the effect of exposure to environmental policies on policy preferences. Exploiting within-country-year, across birth-cohort variation, we find that individuals exposed to more stringent environmental policies during early adulthood are more supportive of environmental policies later on in life. This relationship suggests that a society's environmental policy attitudes evolve endogenously, with implications for choosing measures, forecasting their path over time, and evaluating their normative appropriateness. 
 </details>
 
 [**Climate-induced migration and environmental values**](/files/zappala_migration_values.pdf) <br/>
