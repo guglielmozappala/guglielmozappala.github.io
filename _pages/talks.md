@@ -13,6 +13,9 @@ redirect_from:
 
 ### 2025
 
+- 30th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
+- AERE Summer Conference
+- LSMS Expert Convening on Measuring Adaptation in Household Surveys (World Bank)
 - ifo workshop on the Economics of Adaptation to Climate Change
 - CEPR Workshop on People’s Understanding of and Support for Economic Policies (University of St. Gallen)
 - CESifo Area Conference on Energy and Climate Economics
