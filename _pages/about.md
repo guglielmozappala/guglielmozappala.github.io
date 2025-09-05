@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 <br />
-<!-- <img src=https://github.com/guglielmozappala/guglielmozappala.github.io/tree/master/images/nphoto.png style="width:540px;height:600px;"> -->
+<!-- <img src=https://github.com/guglielmozappala/guglielmozappala.github.io/tree/master/images/half.png style="width:540px;height:600px;"> -->
 <br />
-<!--![github small](/images/nphoto.png) -->
-<img src="/images/nphoto.png" alt="drawing" width="350" height="220" style="float: left; padding-right:15px"/> 
+<!--![github small](/images/half.png) -->
+<img src="/images/half" alt="drawing" width="350" height="220" style="float: left; padding-right:15px"/> 
 
 
 I am an Environmental Fellow at Harvard University. <br>
