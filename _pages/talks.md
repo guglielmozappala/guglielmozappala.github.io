@@ -13,7 +13,7 @@ redirect_from:
 
 ### 2025
 
-- 19th Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara, scheduled)
+- 22nd Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara, scheduled)
 - TU Berlin (scheduled)
 - LSE Environment Week (scheduled)
 - 30th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
