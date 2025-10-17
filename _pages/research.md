@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 <style>
-details {
-  margin-top: 0.2em;
-  margin-bottom: 0.8em;
+.page__content details {
+  margin-top: 0.2em !important;
+  margin-bottom: 0.6em !important;
 }
-details summary {
-  margin-bottom: 0.1em;
+.page__content details summary {
+  margin-bottom: 0.1em !important;
 }
 </style>
 
