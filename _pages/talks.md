@@ -14,8 +14,8 @@ redirect_from:
 ### 2025
 
 - 22nd Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara, scheduled)
-- TU Berlin (scheduled)
-- LSE Environment Week (scheduled)
+- TU Berlin
+- LSE Environment Week
 - 30th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
 - AERE Summer Conference
 - LSMS Expert Convening on Measuring Adaptation in Household Surveys (World Bank)
