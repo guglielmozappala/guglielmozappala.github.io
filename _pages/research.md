@@ -7,6 +7,16 @@ redirect_from:
   - /research
 ---
 
+<style>
+details {
+  margin-top: 0.2em;
+  margin-bottom: 0.8em;
+}
+details summary {
+  margin-bottom: 0.1em;
+}
+</style>
+
 {% include base_path %}
 
 # Research
