@@ -11,7 +11,7 @@ redirect_from:
 
 # Job Openings
 
-## 1. Research Assistant Positions (Part-time)
+## 1. Research Assistant Positions (Remote, Part-time)
 
 We are hiring one or more **part-time Research Assistants** to work on projects in **environmental economics** and **public policy evaluation**.
 
@@ -23,7 +23,7 @@ See the [**job advertisement here**](/files/RA-ad.pdf)
 
 ---
 
-## 2. Research Assistant Positions (Part-time)
+## 2. Research Assistant Position (Pakistan-based, Part-time)
 
 We are hiring one **part-time Research Assistants** to work on projects in **environmental and development economics**.
 
