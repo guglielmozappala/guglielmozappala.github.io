@@ -23,9 +23,9 @@ See the [**job advertisement here**](/files/RA-ad.pdf)
 
 ---
 
-## 2. Research Assistant Position (Pakistan-based, Part-time)
+## 2. Research Assistant Position (Pakistan-based, Full-time)
 
-We are hiring one **part-time Research Assistant** to work on projects in **environmental and development economics**.
+We are hiring one **full-time Research Assistant** to work on projects in **environmental and development economics**.
 
 - **Ideal start date:** March 2026  
 - **Location:** Pakistan
