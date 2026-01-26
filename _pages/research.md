@@ -60,7 +60,10 @@ Higher temperatures can increase substance abuse and exacerbate its physiologica
 ## Publications
 
 [**Adaptation to climate change**](https://doi.org/10.1016/bs.hesecc.2024.10.001) (2024) (with [Tamma Carleton](https://www.tammacarleton.com/), [Esther Duflo](https://economics.mit.edu/people/faculty/esther-duflo), [Kelsey Jack](https://kelseyjack.bren.ucsb.edu/)) <br/> _Handbook of the Economics of Climate Change, Volume 1, 1, 143-248, Elsevier (eds. Lint Barrage and Solomon Hsiang)_ <br/>
-[[NBER Working Paper](https://www.nber.org/papers/w33264)] [[VoxEu Column](https://cepr.org/voxeu/columns/economics-climate-adaptation-academic-insights-effective-policy)] <br/>
+[[NBER Working Paper](https://www.nber.org/papers/w33264)] 
+[[VoxEu Column](https://cepr.org/voxeu/columns/economics-climate-adaptation-academic-insights-effective-policy)] 
+[[Explore our Adaptation Inventory in partnership with Climate Impact Lab](https://impactlab.org/adaptation-inventory)] 
+<br/>
 
 [**Adapting to climate change accounting for individual beliefs**](https://doi.org/10.1016/j.jdeveco.2024.103289) (2024)  <br/> _Journal of Development Economics_, 169, 103289 <br/>
 
