@@ -11,19 +11,7 @@ redirect_from:
 
 # Job Openings
 
-## 1. Research Assistant Positions (Remote, Part-time)
-
-We are hiring one or more **part-time Research Assistants** to work on projects in **environmental economics** and **public policy evaluation**.
-
-- **Ideal start date:** February 2026  
-- **Location:** Remote work possible, with flexible arrangements  
-
-**How to apply:**  
-See the [**job advertisement here**](/files/RA-ad.pdf)
-
----
-
-## 2. Research Assistant Position (Pakistan-based, Full-time)
+## 1. Research Assistant Position (Pakistan-based, Full-time)
 
 We are hiring one **full-time Research Assistant** to work on projects in **environmental and development economics**.
 
@@ -35,11 +23,11 @@ See the [**job advertisement here**](/files/RA_Pakistan.pdf)
 
 ---
 
-## 3. Student Research Opportunities
+## 2. Student Research Opportunities
 
 As part of my **new position at Bocconi University**, I am excited to involve **undergraduate and graduate students** in my ongoing research projects as part-time Research Assistants starting **Fall 2026**.
 
-If you are interested, please [email me](mailto:gzappala@fas.harvard.edu) your CV, (unofficial) transcript and a short cover letter
+If you are interested, please [email me](mailto:guglielmo.zappala@unibocconi.it) your CV, (unofficial) transcript and a short cover letter
 
 with the subject line:
 - *“Undergraduate Research Assistant”* or  
