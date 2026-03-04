@@ -33,7 +33,7 @@ Agriculture is widely recognized as one of the sectors most vulnerable to extrem
 </details>
 
 [**Endogenous green preferences**](/files/VZ_Endogenous_green_preferences.pdf) (with [Ravi Vora](https://sites.google.com/view/ravi-vora-)) <br/>
-[_CESifo Working Paper No. 11857_(2025) ](https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp11857.pdf) <br/>
+[_CESifo Working Paper No. 11857 (2025)](https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp11857.pdf) <br/>
 
 <details>
 <summary> Abstract </summary>
@@ -50,7 +50,7 @@ Climate awareness is crucial for garnering support for climate policies. While p
 </details>
 
 [**Co-benefits of substance abuse regulation on temperature and violent crime**](/files/PZ_substances.pdf) (with [Filippo Pavanello](https://fpavanello.github.io/)) <br/>
-[_CESifo Working Paper No. 12514 (2026) ](https://www.ifo.de/DocDL/cesifo1_wp12514.pdf) <br/>
+[_CESifo Working Paper No. 12514 (2026)](https://www.ifo.de/DocDL/cesifo1_wp12514.pdf) <br/>
 
 <details>
 <summary> Abstract </summary>
