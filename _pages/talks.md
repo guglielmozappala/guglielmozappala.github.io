@@ -11,9 +11,16 @@ redirect_from:
 
 ## Conferences & Seminars
 
+### 2026
+
+- Urban Mobility and Climate Change Conference (Harvard)
+- MIT/Harvard Environmental Economics
+
 ### 2025
 
-- 22nd Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara, scheduled)
+- Allianz Climate Risk
+- IMF-FCDO Conference on Lower Income Countries Navigating Global Change
+- 22nd Occasional Workshop in Environmental and Resource Economics (UC Santa Barbara)
 - TU Berlin
 - LSE Environment Week
 - 30th Annual Conference of the European Association of Environmental and Resource Economists - EAERE
