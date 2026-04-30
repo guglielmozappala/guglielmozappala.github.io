@@ -15,7 +15,7 @@ redirect_from:
 
 We are hiring one **full-time Research Assistant** to work on projects in **environmental and development economics**.
 
-- **Ideal start date:** March 2026  
+- **Ideal start date:** May 2026  
 - **Location:** Pakistan
 
 **How to apply:**  
