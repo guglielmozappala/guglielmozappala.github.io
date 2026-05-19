@@ -11,19 +11,7 @@ redirect_from:
 
 # Job Openings
 
-## 1. Research Assistant Position (Pakistan-based, Full-time)
-
-We are hiring one **full-time Research Assistant** to work on projects in **environmental and development economics**.
-
-- **Ideal start date:** May 2026  
-- **Location:** Pakistan
-
-**How to apply:**  
-See the [**job advertisement here**](/files/RA_Pakistan.pdf)
-
----
-
-## 2. Student Research Opportunities
+## 1. Student Research Opportunities
 
 As part of my new position at Bocconi University, I am excited to involve **undergraduate and graduate students** in my ongoing research projects as part-time Research Assistants starting **Fall 2026**.
 
