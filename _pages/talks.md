@@ -13,6 +13,17 @@ redirect_from:
 
 ### 2026
 
+- World Congress of Environmental and Resource Economists - WCERE
+- 2nd Workshop on Health, Human Capital, and the Environment (Cattolica University)
+- Bulgarian Council for Economic Analyses Annual Conference
+- Paris-Saclay Conference on Trade and the Environment
+- Italian Association of Agricultural and Applied Economics (Keynote speaker)
+- 9th Annual LSE/Imperial Workshop in Environmental Economics
+- Northeast Workshop on Energy Policy and Environmental Economics (Boston College)
+- Workshop on the Economics of Climate Impacts and Adaptation (Goethe University)
+- Pennsylvania State University (School of Public Policy)
+- Columbia University (Climate School)
+- UMass Amherst (Resource Economics) 
 - Urban Mobility and Climate Change Conference (Harvard)
 - MIT/Harvard Environmental Economics
 
