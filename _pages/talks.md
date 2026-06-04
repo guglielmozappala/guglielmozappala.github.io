@@ -13,6 +13,7 @@ redirect_from:
 
 ### 2026
 
+- CEPR Climate Change and the Environment Symposium
 - World Congress of Environmental and Resource Economists - WCERE
 - 2nd Workshop on Health, Human Capital, and the Environment (Cattolica University)
 - Bulgarian Council for Economic Analyses Annual Conference
