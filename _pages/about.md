@@ -22,6 +22,8 @@ I obtained my PhD in Economics at the Paris School of Economics in 2023. My diss
 
 Prior to joining Harvard, I was a (pre-market) postdoctoral fellow at UC Berkeley (Agricultural and Resource Economics) and UC Santa Barbara (emLab - Bren School).  <br>
 
+In Fall 2026, I will join Bocconi University as an Assistant Professor. <br>
+
 **Contact** <br>
 Email: gzappala[at]fas.harvard.edu
 \
