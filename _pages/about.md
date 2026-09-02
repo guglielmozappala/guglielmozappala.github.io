@@ -14,15 +14,13 @@ redirect_from:
 <img src="/images/half.png" alt="drawing" width="350" height="220" style="float: left; padding-right:15px"/> 
 
 
-I am an Environmental Fellow at Harvard University. <br>
+I am an Assistant Professor of Economics at Bocconi University. <br>
 
-My research focuses on the socio-economic impacts of climate change and humanity’s ability to adapt to these impacts. Part of my research also examines the determinants of environmental preferences and of public support for climate policies. <br>
+My research studies the socio-economic impacts of climate change and humanity’s ability to adapt to these impacts. Part of my research also examines the determinants of environmental preferences and of public support for climate policies. <br>
 
 I obtained my PhD in Economics at the Paris School of Economics in 2023. My dissertation was awarded the Best Doctoral Dissertation Award from the [European Association of Environmental and Resource Economists](https://www.eaere.org/best-european-doctoral-dissertation-award) and from the [French Economic Association (AFSE)](https://www.afse.fr/fr/news/laureats-du-prix-de-these-de-l-afse-2024-2356?langue_selected=fr). <br>
 
-Prior to joining Harvard, I was a (pre-market) postdoctoral fellow at UC Berkeley (Agricultural and Resource Economics) and UC Santa Barbara (emLab - Bren School).  <br>
-
-In Fall 2026, I will join Bocconi University as an Assistant Professor. <br>
+Prior to joining Bocconi, I was held postdoctoral fellowships at Harvard University, UC Berkeley, and UC Santa Barbara.  <br>
 
 **Contact** <br>
 Email: guglielmo.zappala[at]unibocconi.it
