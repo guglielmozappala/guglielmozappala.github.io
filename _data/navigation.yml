@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "CV (pdf)"
-    url: /files/CV_Zappala.pdf
-
   - title: "Research"
     url: /research/
+
+  - title: "CV (pdf)"
+    url: /files/CV_Zappala.pdf
 
   - title: "Talks"
     url: /talks/    
