@@ -14,7 +14,7 @@ redirect_from:
 <img src="/images/half.png" alt="drawing" width="350" height="220" style="float: left; padding-right:15px"/> 
 
 
-I am an Assistant Professor of Economics at Bocconi University. <br>
+I am an Assistant Professor at Bocconi University. <br>
 
 My research studies the socio-economic impacts of climate change and humanity’s ability to adapt to these impacts. Part of my research also examines the determinants of environmental preferences and of public support for climate policies. <br>
 
