@@ -25,7 +25,7 @@ Prior to joining Harvard, I was a (pre-market) postdoctoral fellow at UC Berkele
 In Fall 2026, I will join Bocconi University as an Assistant Professor. <br>
 
 **Contact** <br>
-Email: gzappala[at]fas.harvard.edu
+Email: guglielmo.zappala[at]unibocconi.it
 \
 \
 Wondering how to pronounce my name? /goo-yell-mo/
