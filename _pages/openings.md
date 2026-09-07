@@ -13,7 +13,7 @@ redirect_from:
 
 ## 1. Student Research Opportunities
 
-As part of my new position at Bocconi University, I am excited to involve **undergraduate and graduate students** in my ongoing research projects as part-time Research Assistants starting **Fall 2026**.
+I am excited to involve **undergraduate and graduate students** in my ongoing research projects as part-time Research Assistants.
 
 If you are interested, please [email me](mailto:guglielmo.zappala@unibocconi.it) your CV, (unofficial) transcript and a short cover letter
 
