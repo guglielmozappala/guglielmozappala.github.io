@@ -20,7 +20,7 @@ My research studies the socio-economic impacts of climate change and humanity’
 
 I obtained my PhD in Economics at the Paris School of Economics in 2023. My dissertation was awarded the Best Doctoral Dissertation Award from the [European Association of Environmental and Resource Economists](https://www.eaere.org/best-european-doctoral-dissertation-award) and from the [French Economic Association (AFSE)](https://www.afse.fr/fr/news/laureats-du-prix-de-these-de-l-afse-2024-2356?langue_selected=fr). <br>
 
-Prior to joining Bocconi, I was held postdoctoral fellowships at Harvard University, UC Berkeley, and UC Santa Barbara.  <br>
+Prior to joining Bocconi, I held postdoctoral fellowships at Harvard University, UC Berkeley, and UC Santa Barbara.  <br>
 
 **Contact** <br>
 Email: guglielmo.zappala[at]unibocconi.it
