@@ -7,8 +7,11 @@ main:
   - title: "CV (pdf)"
     url: /files/CV_Zappala.pdf
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Job openings"
     url: /openings/    
+
+  - title: "Teaching"
+   url: /teaching/    
+
+  - title: "Talks"
+    url: /talks/    
