@@ -8,7 +8,7 @@ sidebar:
 excerpt: "Course 30759, Bocconi University, Fall 2026. The three in-class games."
 ---
 
-**30759 Environmental Economics and Policy**, Bocconi University, Fall 2026 (Semester I, a.y. 2026-27).
+**30759 Environmental Economics and Policy**, Bocconi University, Fall 2026.
 
 *Is there such a thing as too little pollution? How much are the Dolomites worth? Why is it cheaper to fly to Paris than to take the train? What should we be willing to pay to avoid two degrees of global warming? Are "green" bonds really green?*
 
