@@ -2,7 +2,7 @@
 title: "Game 2: The permit market"
 permalink: /teaching/eep/games/permits/
 layout: archive
-author_profile: true
+author_profile: false
 sidebar:
   nav: "eep"
 excerpt: "A two-market emissions trading simulation, played in Week 7 (30 October) and analysed in Week 8."

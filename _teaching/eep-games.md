@@ -2,7 +2,7 @@
 title: "Games"
 permalink: /teaching/eep/games/
 layout: archive
-author_profile: true
+author_profile: false
 sidebar:
   nav: "eep"
 excerpt: "Three in-class games played on your phone: Coase bargaining, permit trading, hedonic sorting."

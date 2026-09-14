@@ -2,7 +2,7 @@
 title: "Resources"
 permalink: /teaching/eep/resources/
 layout: archive
-author_profile: true
+author_profile: false
 sidebar:
   nav: "eep"
 excerpt: "Textbooks, podcasts, videos and blog pieces for Environmental Economics and Policy (30759)."

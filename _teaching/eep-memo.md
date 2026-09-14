@@ -2,7 +2,7 @@
 title: "Policy memo and presentation"
 permalink: /teaching/eep/memo/
 layout: archive
-author_profile: true
+author_profile: false
 sidebar:
   nav: "eep"
 excerpt: "The group policy project: guidelines, timeline and assessment rubric."

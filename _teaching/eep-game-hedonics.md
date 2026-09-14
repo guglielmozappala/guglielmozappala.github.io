@@ -2,7 +2,7 @@
 title: "Game 3: Hedonic sorting"
 permalink: /teaching/eep/games/hedonics/
 layout: archive
-author_profile: true
+author_profile: false
 sidebar:
   nav: "eep"
 excerpt: "A housing-market sorting game, played in Week 9 (13 November)."

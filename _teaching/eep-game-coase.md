@@ -2,7 +2,7 @@
 title: "Game 1: The Navigli terrace"
 permalink: /teaching/eep/games/coase/
 layout: archive
-author_profile: true
+author_profile: false
 sidebar:
   nav: "eep"
 excerpt: "A Coase bargaining game, played in Week 5 (9 October)."

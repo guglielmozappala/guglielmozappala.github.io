@@ -2,7 +2,7 @@
 title: "Schedule and readings"
 permalink: /teaching/eep/schedule/
 layout: archive
-author_profile: true
+author_profile: false
 sidebar:
   nav: "eep"
 excerpt: "Week by week: topics, required and optional readings, media, and the game sessions."

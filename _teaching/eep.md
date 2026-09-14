@@ -2,7 +2,7 @@
 title: "Environmental Economics and Policy"
 permalink: /teaching/eep/
 layout: archive
-author_profile: true
+author_profile: false
 sidebar:
   nav: "eep"
 excerpt: "Course 30759, Bocconi University, Fall 2026. Schedule, readings, the three in-class games and the policy memo."
