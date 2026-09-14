@@ -8,8 +8,6 @@ sidebar:
 excerpt: "A housing-market sorting game, played in Week 9 (13 November)."
 ---
 
-**Week 9, Friday 13 November.** About 35 to 40 minutes, played in six teams.
-
 ## The story
 
 Seventy-five households choose where to live among six neighbourhoods, A to F. The neighbourhoods differ in environmental quality (EQ) and school quality (SQ), and the price of a house depends on how many households move in. Your team plays one household type, and every type values environmental quality differently. Round by round you work out where the households end up and what each neighbourhood costs. Sorting, and a price gradient, emerge from your answers.

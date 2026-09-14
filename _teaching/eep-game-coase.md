@@ -8,8 +8,6 @@ sidebar:
 excerpt: "A Coase bargaining game, played in Week 5 (9 October)."
 ---
 
-**Week 5, Friday 9 October, Room N20, Via Sraffa 13.** About 40 minutes, three rounds.
-
 ## The story
 
 A bar on the Navigli has a terrace that stays open late. Upstairs lives a resident who would like to sleep. Every late night is money to the bar and lost sleep to the resident. One of you runs the bar (Player A), one of you lives upstairs (Player B). You bargain in real time over how many late nights a week the terrace stays open and over a payment, and who holds the right to the night air changes from round to round.

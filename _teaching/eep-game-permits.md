@@ -8,8 +8,6 @@ sidebar:
 excerpt: "A two-market emissions trading simulation, played in Week 7 (30 October) and analysed in Week 8."
 ---
 
-**Week 7, Friday 30 October.** The whole session. The data the room produces are the material of Week 8.
-
 ## The story
 
 Your team runs a firm that emits six tonnes a year. A regulator has capped the market: every tonne emitted needs a permit, and there are fewer permits than tonnes. Whatever your firm cannot cover with permits it must abate, at a cost that rises with every tonne and that only your firm knows. You trade permits with the other firms in your market. Cheap abaters should end up selling to expensive abaters; whether that happens is up to you.

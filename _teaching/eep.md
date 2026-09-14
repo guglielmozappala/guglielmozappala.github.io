@@ -5,7 +5,7 @@ layout: archive
 author_profile: false
 sidebar:
   nav: "eep"
-excerpt: "Course 30759, Bocconi University, Fall 2026. Readings, the three in-class games and the policy memo."
+excerpt: "Course 30759, Bocconi University, Fall 2026. The three in-class games."
 ---
 
 **30759 Environmental Economics and Policy**, Bocconi University, Fall 2026 (Semester I, a.y. 2026-27).
@@ -26,7 +26,7 @@ By the end you should be able to read an environmental-policy debate with econom
 - **Practical exercises.** Analytical problems worked through in class, individually or in small groups, followed by a debrief.
 - **Three games, played on your phone.** A Coase bargaining game in Week 5, a two-market permit trading simulation in Week 7 whose data we analyse in Week 8, and a hedonic sorting game in Week 9. Nothing in the games is graded. Rules and join links are on the [games page](/teaching/eep/games/).
 - **Polls.** Short in-class polls on Slido elicit what the room believes before we look at the evidence.
-- **Group policy project.** A course-long project on a real environmental challenge: a written memo and a final presentation. Details on the [policy memo page](/teaching/eep/memo/).
+- **Group policy project.** A course-long project on a real environmental challenge: a written memo and a final presentation. Guidelines and rubric are on Blackboard.
 
 ## Readings
 
@@ -34,7 +34,7 @@ By the end you should be able to read an environmental-policy debate with econom
 
 **Recommended.** Daniel J. Phaneuf and Till Requate, *A Course in Environmental Economics: Theory, Policy, and Practice*, Cambridge University Press (2016). Nathaniel O. Keohane and Sheila M. Olmstead, *Markets and the Environment*, Princeton University Press, 2nd edition (2016).
 
-A reading and listening pack on Blackboard holds the research articles, policy documents and podcast episodes, week by week. The podcasts, videos and blog pieces are also listed on the [resources page](/teaching/eep/resources/).
+A reading and listening pack on Blackboard holds the research articles, policy documents and podcast episodes, week by week.
 
 ## Communication and integrity
 
