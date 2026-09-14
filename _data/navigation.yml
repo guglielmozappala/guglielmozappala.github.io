@@ -11,7 +11,29 @@ main:
     url: /openings/    
 
   - title: "Teaching"
-   url: /teaching/    
+    url: /teaching/
 
   - title: "Talks"
     url: /talks/    
+
+# Sidebar navigation for the Environmental Economics and Policy course pages (30759, Bocconi)
+eep:
+  - title: "Environmental Economics and Policy"
+    url: /teaching/eep/
+    children:
+      - title: "Course home"
+        url: /teaching/eep/
+      - title: "Schedule and readings"
+        url: /teaching/eep/schedule/
+      - title: "Games"
+        url: /teaching/eep/games/
+      - title: "Game 1: Coase bargaining"
+        url: /teaching/eep/games/coase/
+      - title: "Game 2: Permit trading"
+        url: /teaching/eep/games/permits/
+      - title: "Game 3: Hedonic sorting"
+        url: /teaching/eep/games/hedonics/
+      - title: "Policy memo and presentation"
+        url: /teaching/eep/memo/
+      - title: "Resources"
+        url: /teaching/eep/resources/
