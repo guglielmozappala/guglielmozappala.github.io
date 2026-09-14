@@ -1,7 +1,7 @@
 ---
 title: "Policy memo and presentation"
 permalink: /teaching/eep/memo/
-layout: single
+layout: archive
 author_profile: true
 sidebar:
   nav: "eep"

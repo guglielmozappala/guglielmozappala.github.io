@@ -1,7 +1,7 @@
 ---
 title: "Schedule and readings"
 permalink: /teaching/eep/schedule/
-layout: single
+layout: archive
 author_profile: true
 sidebar:
   nav: "eep"

@@ -1,7 +1,7 @@
 ---
 title: "Game 3: Hedonic sorting"
 permalink: /teaching/eep/games/hedonics/
-layout: single
+layout: archive
 author_profile: true
 sidebar:
   nav: "eep"

@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 permalink: /teaching/eep/resources/
-layout: single
+layout: archive
 author_profile: true
 sidebar:
   nav: "eep"

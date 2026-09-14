@@ -1,7 +1,7 @@
 ---
 title: "Environmental Economics and Policy"
 permalink: /teaching/eep/
-layout: single
+layout: archive
 author_profile: true
 sidebar:
   nav: "eep"

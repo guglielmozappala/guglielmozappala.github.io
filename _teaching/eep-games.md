@@ -1,7 +1,7 @@
 ---
 title: "Games"
 permalink: /teaching/eep/games/
-layout: single
+layout: archive
 author_profile: true
 sidebar:
   nav: "eep"

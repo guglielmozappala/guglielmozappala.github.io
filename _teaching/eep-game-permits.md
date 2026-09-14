@@ -1,7 +1,7 @@
 ---
 title: "Game 2: The permit market"
 permalink: /teaching/eep/games/permits/
-layout: single
+layout: archive
 author_profile: true
 sidebar:
   nav: "eep"

@@ -1,7 +1,7 @@
 ---
 title: "Game 1: The Navigli terrace"
 permalink: /teaching/eep/games/coase/
-layout: single
+layout: archive
 author_profile: true
 sidebar:
   nav: "eep"
