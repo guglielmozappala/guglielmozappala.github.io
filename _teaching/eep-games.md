@@ -18,14 +18,14 @@ Each game puts you inside the market the lecture is about. The games run on your
 
 ## How to join
 
-All three games live at **[envecon-games.netlify.app](https://envecon-games.netlify.app/)**. Open it on your phone when I tell you to, pick the game, and join with your first name and initial, or with your team's name when the game is played in teams. The QR code is on the first slide of the session as well.
+All three games are at **[envecon-games.netlify.app](https://envecon-games.netlify.app/)**. Open it on your phone when I say so, pick the game and join with your first name and initial, or with your team's name in the team games. The QR code is also on the first slide of the session.
 
 ![QR code for the games site](/images/eep/qr-games-home.png){: width="180"}
 
-- One phone per player in the Coase game, one phone per team in the other two.
-- Keep the page open during the game: phases, clocks and results update on their own.
-- If your phone dies or the page closes, open the link again and join with the same name.
+- One phone per player in the Coase game, one per team in the other two.
+- Keep the page open during the game. Phases, clocks and results update by themselves.
+- If the page closes, open the link again and join with the same name.
 
 ## What happens to the data
 
-Each game leaves a record: which pairs struck a deal and at what price, every permit trade with its timestamp, where each household type chose to live. That record is the material of the following lecture, and it becomes course material on Blackboard. Names in the record are the nicknames you join with. Nothing you do in a game affects your grade.
+Each game leaves a record: the deals and prices in the Coase game, every permit trade with its time, where each household type settled. We use it in the following lecture and I post it on Blackboard. The record carries the names you join with. Nothing you do in a game counts towards your grade.
