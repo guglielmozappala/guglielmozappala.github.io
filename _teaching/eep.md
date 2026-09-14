@@ -8,7 +8,7 @@ sidebar:
 excerpt: "Course 30759, Bocconi University, Fall 2026. Readings, the three in-class games and the policy memo."
 ---
 
-**30759 Environmental Economics and Policy**, Bocconi University, Fall 2026 (Semester I, a.y. 2026-27). An undergraduate elective.
+**30759 Environmental Economics and Policy**, Bocconi University, Fall 2026 (Semester I, a.y. 2026-27).
 
 *Is there such a thing as too little pollution? How much are the Dolomites worth? Why is it cheaper to fly to Paris than to take the train? What should we be willing to pay to avoid two degrees of global warming? Are "green" bonds really green?*
 
@@ -36,21 +36,6 @@ By the end you should be able to read an environmental-policy debate with econom
 
 A reading and listening pack on Blackboard holds the research articles, policy documents and podcast episodes, week by week. The podcasts, videos and blog pieces are also listed on the [resources page](/teaching/eep/resources/).
 
-## Assessment
-
-For attending students:
-
-| Component | Weight |
-|---|---|
-| Group policy project, written memo (due Sunday 22 November 2026, 23:59) | 30% |
-| Group policy project, oral presentation (Weeks 11 and 12, graded individually) | 15% |
-| Written exam, two hours, open and closed questions | 50% |
-| Active class participation | 5% |
-
-Each component is graded on a 0 to 31 scale: 30 is full marks and the 31st point rewards work that goes past the mark scheme. The final grade is the weighted average, 18 to pass, 30 the highest reported grade; *30 e lode* when the average is above 30.5. Not attending students take an extended version of the written exam covering the material that attending students are assessed on through the project and the in-class activities.
-
-Exam sessions: 16 December 2026, 20 January 2027, 7 July 2027, 31 August 2027, all at 11:30.
-
 ## Communication and integrity
 
 Questions on course material and logistics go to the Blackboard discussion forum, where everyone benefits from the exchange. Personal matters: office hours.
@@ -59,4 +44,4 @@ Cheating of any sort, or facilitating it, means failing the course. Generative A
 
 ## Acknowledgments
 
-The course was designed with inspiration from courses taught by Patrick Baylis (University of British Columbia), Tamma Carleton (UC Berkeley) and Ivan Rudik (Cornell University). The three classroom games build on Ivan Rudik's open-source games for his Cornell course. Any errors are mine, and I am grateful to students who report them.
+The course was designed with inspiration from courses taught by Patrick Baylis (University of British Columbia), Tamma Carleton (UC Berkeley), and Ivan Rudik (Cornell University). Any errors are mine, and I am grateful to students who report them.
