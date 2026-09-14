@@ -5,21 +5,12 @@ layout: archive
 author_profile: false
 sidebar:
   nav: "eep"
-excerpt: "Course 30759, Bocconi University, Fall 2026. Schedule, readings, the three in-class games and the policy memo."
+excerpt: "Course 30759, Bocconi University, Fall 2026. Readings, the three in-class games and the policy memo."
 ---
 
 **30759 Environmental Economics and Policy**, Bocconi University, Fall 2026 (Semester I, a.y. 2026-27). An undergraduate elective.
 
 *Is there such a thing as too little pollution? How much are the Dolomites worth? Why is it cheaper to fly to Paris than to take the train? What should we be willing to pay to avoid two degrees of global warming? Are "green" bonds really green?*
-
-| | |
-|---|---|
-| **When** | Fridays, 8:30 to 11:45 (two 90-minute blocks with a break) |
-| **Where** | Room AS02, Roentgen building, basement floor. 9 October: Room N20, Via Sraffa 13 |
-| **Instructor** | Guglielmo Zappalà, [guglielmo.zappala@unibocconi.it](mailto:guglielmo.zappala@unibocconi.it) |
-| **Office and office hours** | 3.C1.06, Fridays 11:45 to 12:45 |
-| **Official course page** | [didattica.unibocconi.it](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30759&anno=2027) |
-| **Slides, readings pack, forum** | Blackboard (Bocconi login). Slides are posted the morning before each class and are not published here |
 
 ## What the course does
 
@@ -31,7 +22,7 @@ By the end you should be able to read an environmental-policy debate with econom
 
 ## How we work
 
-- **Lectures.** One three-hour topic session per week. The [schedule](/teaching/eep/schedule/) lists topics and readings; required readings are done before class.
+- **Lectures.** One three-hour topic session per week. Topics and readings are on Blackboard; required readings are done before class.
 - **Practical exercises.** Analytical problems worked through in class, individually or in small groups, followed by a debrief.
 - **Three games, played on your phone.** A Coase bargaining game in Week 5, a two-market permit trading simulation in Week 7 whose data we analyse in Week 8, and a hedonic sorting game in Week 9. Nothing in the games is graded. Rules and join links are on the [games page](/teaching/eep/games/).
 - **Polls.** Short in-class polls on Slido elicit what the room believes before we look at the evidence.
@@ -39,11 +30,11 @@ By the end you should be able to read an environmental-policy debate with econom
 
 ## Readings
 
-**Main textbook.** Charles Kolstad, *Environmental Economics*, Oxford University Press, 2nd edition (2010). Cited as K in the schedule.
+**Main textbook.** Charles Kolstad, *Environmental Economics*, Oxford University Press, 2nd edition (2010). Cited as K in the reading list.
 
 **Recommended.** Daniel J. Phaneuf and Till Requate, *A Course in Environmental Economics: Theory, Policy, and Practice*, Cambridge University Press (2016). Nathaniel O. Keohane and Sheila M. Olmstead, *Markets and the Environment*, Princeton University Press, 2nd edition (2016).
 
-A reading and listening pack on Blackboard holds the research articles, policy documents and podcast episodes listed week by week in the [schedule](/teaching/eep/schedule/).
+A reading and listening pack on Blackboard holds the research articles, policy documents and podcast episodes, week by week. The podcasts, videos and blog pieces are also listed on the [resources page](/teaching/eep/resources/).
 
 ## Assessment
 

@@ -8,7 +8,7 @@ sidebar:
 excerpt: "Textbooks, podcasts, videos and blog pieces for Environmental Economics and Policy (30759)."
 ---
 
-Textbooks, and the podcasts, videos and blog pieces referred to in the [schedule](/teaching/eep/schedule/). Research articles and policy documents are in the reading pack on Blackboard.
+Textbooks, and the podcasts, videos and blog pieces used in the course, with the week they belong to. Research articles and policy documents are in the reading pack on Blackboard.
 
 ## Textbooks
 

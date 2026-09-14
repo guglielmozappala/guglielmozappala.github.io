@@ -12,7 +12,7 @@ redirect_from:
 
 ## Active courses
 
-[Environmental Economics and Policy](/teaching/eep/), _Bocconi University_ (Undergraduate). Course site with the schedule, readings, the three in-class games and the policy memo.
+[Environmental Economics and Policy](/teaching/eep/), _Bocconi University_ (Undergraduate). Course site with the readings, the three in-class games and the policy memo.
 
 [Statistical Applications for Economics and Management](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30280&anno=2027), _Bocconi University_ (Undergraduate)
 

@@ -23,8 +23,6 @@ eep:
     children:
       - title: "Course home"
         url: /teaching/eep/
-      - title: "Schedule and readings"
-        url: /teaching/eep/schedule/
       - title: "Games"
         url: /teaching/eep/games/
       - title: "Game 1: Coase bargaining"
