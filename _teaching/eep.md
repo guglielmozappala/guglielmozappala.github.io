@@ -24,9 +24,9 @@ By the end you should be able to read an environmental-policy debate with econom
 
 - **Lectures.** One three-hour topic session per week. Topics and readings are on Blackboard; required readings are done before class.
 - **Practical exercises.** Analytical problems worked through in class, individually or in small groups, followed by a debrief.
-- **Three games, played on your phone.** A Coase bargaining game in Week 5, a two-market permit trading simulation in Week 7 whose data we analyse in Week 8, and a hedonic sorting game in Week 9. Nothing in the games is graded. Rules and join links are on the [games page](/teaching/eep/games/).
+- **Three games, played on your phone.** A Coase bargaining game in Week 4 (2 October), a two-market permit trading simulation in Week 6 (16 October) whose data we analyse in Week 7, and a hedonic sorting game in Week 8 (6 November). Nothing in the games is graded. Rules and join links are on the [games page](/teaching/eep/games/).
 - **Polls.** Short in-class polls on Slido elicit what the room believes before we look at the evidence.
-- **Group policy project.** A course-long project on a real environmental challenge: a written memo and a final presentation. Guidelines and rubric are on Blackboard.
+- **Policy project, alone or in a pair.** A course-long project on a real environmental challenge: a written memo and a final presentation. Guidelines and rubric are on Blackboard.
 
 ## Readings
 

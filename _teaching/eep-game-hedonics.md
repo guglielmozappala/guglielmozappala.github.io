@@ -5,7 +5,7 @@ layout: archive
 author_profile: false
 sidebar:
   nav: "eep"
-excerpt: "A housing-market sorting game, played in Week 9 (13 November)."
+excerpt: "A housing-market sorting game, played in Week 8 (6 November)."
 ---
 
 ## The story
@@ -35,4 +35,4 @@ Seventy-five households choose where to live among six neighbourhoods, A to F. T
 
 ## Think about
 
-When preferences differ, who ends up in the clean neighbourhoods, and what does the price difference between two neighbourhoods measure? Whose willingness to pay is it? We come back to this in the lecture, and again in Week 11.
+When preferences differ, who ends up in the clean neighbourhoods, and what does the price difference between two neighbourhoods measure? Whose willingness to pay is it? We come back to this in the lecture, and again in Week 11 (27 November).

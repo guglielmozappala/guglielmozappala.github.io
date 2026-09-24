@@ -5,7 +5,7 @@ layout: archive
 author_profile: false
 sidebar:
   nav: "eep"
-excerpt: "A Coase bargaining game, played in Week 5 (9 October)."
+excerpt: "A Coase bargaining game, played in Week 4 (2 October)."
 ---
 
 ## The story

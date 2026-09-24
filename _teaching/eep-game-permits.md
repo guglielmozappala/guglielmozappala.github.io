@@ -5,14 +5,14 @@ layout: archive
 author_profile: false
 sidebar:
   nav: "eep"
-excerpt: "A two-market emissions trading simulation, played in Week 7 (30 October) and analysed in Week 8."
+excerpt: "A two-market emissions trading simulation, played in Week 6 (16 October) and analysed in Week 7."
 ---
 
 ## The story
 
 Your team runs a firm that emits six tonnes a year. The regulator has capped the market: every tonne needs a permit and there are fewer permits than tonnes. What you cannot cover with permits you abate, at a cost that rises with each tonne. Only your firm knows its costs. You trade permits with the other firms in your market.
 
-The room is split into two markets, A and B, with the same rules and four firms each. After the first round the whole class becomes the regulator. You debate two amendments to the rules, vote one in, and a coin decides which market runs under it in the second round. The other market keeps the original rules. In Week 8 we treat this as an experiment and ask what the amendment did.
+The room is split into two markets, A and B, with the same rules and four firms each. After the first round the whole class becomes the regulator. You debate two amendments to the rules, vote one in, and a coin decides which market runs under it in the second round. The other market keeps the original rules. In Week 7 we treat this as an experiment and ask what the amendment did.
 
 ## Join
 
@@ -43,7 +43,7 @@ Abatement is now more expensive for every firm in both markets, by the same amou
 
 ## After class
 
-The tape, every trade with its time, market, buyer, seller, price and quantity, goes on Blackboard within 24 hours, for both markets and both rounds. Week 8 starts from it: treatment and control, what the amendment changed, and what the comparison cannot tell us.
+The tape, every trade with its time, market, buyer, seller, price and quantity, goes on Blackboard within 24 hours, for both markets and both rounds. Week 7 starts from it: treatment and control, what the amendment changed, and what the comparison cannot tell us.
 
 ## Tips
 
