@@ -69,3 +69,10 @@ Higher temperatures can increase substance abuse and exacerbate its physiologica
 [**Adapting to climate change accounting for individual beliefs**](https://doi.org/10.1016/j.jdeveco.2024.103289) (2024)  <br/> _Journal of Development Economics_, 169, 103289 <br/>
 
 [**Drought exposure and accuracy: Motivated reasoning in climate change beliefs**](https://link.springer.com/article/10.1007/s10640-023-00779-1) (2023)  <br/> _Environmental and Resource Economics_, 85, 649–672 [[PDF](/files/zappala2023.pdf)] <br/>
+
+## (selected) Works in progress
+
+**A Hedonic Social Cost of Carbon: Evidence from US Migration** (with Tamma Carleton, Charles A. Taylor, Marco
+Tabellini) <br/>
+**Demand for crop insurance: Evidence from Pakistan** (with Patrick Baylis, Talha Naeem) <br/>
+**Healthcare austerity policy and the temperature-related mortality burden** (with Filippo Pavanello, Giulia Valenti) <br/>
