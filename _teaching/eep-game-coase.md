@@ -41,9 +41,9 @@ Payoffs are in hundreds of euros a week. An accepted deal adds the agreed paymen
 
 ## The rounds
 
-- **Round 1.** The bar holds the right. No deal means six late nights. The resident can pay the bar to close earlier.
-- **Round 2.** The resident holds the right. No deal means no late nights. The bar can pay the resident to stay open.
-- **Round 3.** Same rights as round 2. Any accepted deal with a positive payment costs 5 in legal fees, split between the two of you as part of the offer. Decide whether a deal is still worth it.
+- **Round 1:** the bar holds the right. No deal means six late nights. The resident can pay the bar to close earlier.
+- **Round 2:** the resident holds the right. No deal means no late nights. The bar can pay the resident to stay open.
+- **Round 3:** same rights as round 2. Any accepted deal with a positive payment costs 5 in legal fees, split between the two of you as part of the offer. Decide whether a deal is still worth it.
 
 ## Tips
 

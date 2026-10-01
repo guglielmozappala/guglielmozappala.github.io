@@ -25,8 +25,8 @@ The room is split into two markets, A and B, with the same rules and four firms 
 
 - When I start the game your firm is dealt at random: Alfa, Bravo, Charlie or Delta. Your page shows your cost card, the cost of abating each tonne from the first to the sixth. Keep the card to yourself.
 - Every firm starts with three free permits. The market has twelve.
-- **Trading.** Post a buy or a sell order at a price of your choice, in whole euros, for one to six permits. If it crosses an order on the other side of the book it trades at once, at the resting order's price. Otherwise it stays in the book until someone crosses it or you cancel it. You can only sell permits you hold. There is no official price and I am not going to suggest one.
-- **Compliance.** When the round closes you emit one tonne per permit you hold, up to six, and abate the rest at your card's cost. Permits beyond six are wasted. The rule printed on every card: abate a tonne if its cost is at or below the permit price.
+- **Trading:** post a buy or a sell order at a price of your choice, in whole euros, for one to six permits. If it crosses an order on the other side of the book it trades at once, at the resting order's price. Otherwise it stays in the book until someone crosses it or you cancel it. You can only sell permits you hold. There is no official price and I am not going to suggest one.
+- **Compliance:** when the round closes you emit one tonne per permit you hold, up to six, and abate the rest at your card's cost. Permits beyond six are wasted. The rule printed on every card: abate a tonne if its cost is at or below the permit price.
 - The clock runs for about 25 minutes. Halfway through I freeze both markets for a minute and ask you to write down whether you would revise your numbers.
 
 ## Round 1

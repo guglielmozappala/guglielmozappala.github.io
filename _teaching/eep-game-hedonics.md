@@ -22,7 +22,7 @@ Seventy-five households choose where to live among six neighbourhoods, A to F. T
 ## How we play
 
 - A household living in a neighbourhood with environmental quality EQ, school quality SQ and price P gets utility U = α · EQ + β · SQ − P. Your page shows your type's α and β and each round's EQ and SQ by neighbourhood.
-- **Supply rule.** Neighbourhood A is free, P = 0. In B to F the price equals the number of houses occupied there.
+- **Supply rule:** neighbourhood A is free, P = 0. In B to F the price equals the number of houses occupied there.
 - **Each round** your team submits three things: the split of the 75 households across A to F in equilibrium, the neighbourhood your type ends up in, and its utility there. The app checks each part separately. You have three attempts per round; after the third wrong submission your team sees the answer.
 - Rounds 1 to 3: all types have the same preferences, and the neighbourhoods differ in EQ, then in EQ and SQ. Rounds 4 and 5: the types differ in α and only some neighbourhoods are clean.
 - The round's market is shown to everyone once every team is done.
