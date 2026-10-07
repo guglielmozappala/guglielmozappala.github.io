@@ -41,21 +41,21 @@ Agriculture is widely recognized as one of the sectors most vulnerable to extrem
 Stringent environmental policies often lack public support. But after policies are enacted, do individual preferences about them change? Using surveys covering 38 countries around the world, we study the effect of exposure to environmental policies on policy preferences. Exploiting within-country-year, across birth-cohort variation, we find that individuals exposed to more stringent environmental policies during early adulthood are more supportive of environmental policies later on in life. This relationship suggests that a society's environmental policy attitudes evolve endogenously, with implications for choosing measures, forecasting their path over time, and evaluating their normative appropriateness. 
 </details>
 
-[**Climate-induced migration and environmental values**](/files/zappala_migration_values.pdf) <br/>
-
-<details>
-<summary> Abstract </summary>
-<br>
-Climate awareness is crucial for garnering support for climate policies. While prior work highlights socio-political factors and local weather experiences as determinants of climate concern, this paper formulates a novel mechanism: exposure to the socio-economic consequences of climate change. I test this hypothesis using climate-induced migration inflows, which can reduce the psychological distance of climate shocks or raise the perceived costs of climate inaction. Focusing on asylum seekers displaced by extreme temperatures and precipitation in non-OECD countries and arriving in the European Union between 2000 and 2019, I construct a gravity-predicted instrument combining exogenous weather variation and bilateral measures of migration costs. I find that weather-driven asylum demands significantly increase public climate concern in host countries, ruling out alternative channels such as media coverage and trade. The effect is driven by right-leaning and less-educated voters, suggesting that heightened concern reflects an increase in perceived salience and cost of climate inaction rather than a broad increase in climate awareness. Shifts in stated preferences, however, do not translate into pro-environmental voting, consistent with turnout effects, non-voter preference changes, and stable party platforms.  
-</details>
-
 [**Co-benefits of substance abuse regulation on temperature and violent crime**](/files/PZ_substances.pdf) (with [Filippo Pavanello](https://fpavanello.github.io/)) <br/>
 [CESifo Working Paper No. 12514 (2026)](https://www.ifo.de/DocDL/cesifo1_wp12514.pdf) <br/>
 
 <details>
 <summary> Abstract </summary>
 <br>
-Higher temperatures can increase substance abuse and exacerbate its physiological effects on the human body, raising the risk of violent behavior. Using administrative crime records and daily temperatures in the United States between 1991 and 2023, we show that two public policies regulating substance abuse --- the expansion of substance abuse treatment facilities and the reformulation of the prescription opioid OxyContin --- substantially moderate the impact of temperature on interpersonal violent crime. We monetize the policy benefits for intimate partner violence, the most widespread crime in the United States, and show that substance abuse regulations can be a cost-effective tool for climate adaptation.
+Higher temperatures can increase substance abuse and exacerbate its physiological effects, raising the risk of violent behavior. Combining daily administrative crime records and temperatures in the United States, we use a triple difference approach to study how the temperature-crime relationship changed around the 2010 abuse-deterrent reformulation of the prescription opioid OxyContin across counties with varying pre-policy opioid exposure. We find that the reformulation moderated the temperature response of violent crimes. We then monetize the social benefits for avoided temperature-induced violent crimes and argue that standard welfare evaluations of substance abuse regulation understate its social value in a warming climate.
+</details>
+
+[**Climate-induced migration and environmental values**](/files/zappala_migration_values.pdf) <br/>
+
+<details>
+<summary> Abstract </summary>
+<br>
+Climate awareness is crucial for garnering support for climate policies. While prior work highlights socio-political factors and local weather experiences as determinants of climate concern, this paper formulates a novel mechanism: exposure to the socio-economic consequences of climate change. I test this hypothesis using climate-induced migration inflows, which can reduce the psychological distance of climate shocks or raise the perceived costs of climate inaction. Focusing on asylum seekers displaced by extreme temperatures and precipitation in non-OECD countries and arriving in the European Union between 2000 and 2019, I construct a gravity-predicted instrument combining exogenous weather variation and bilateral measures of migration costs. I find that weather-driven asylum demands significantly increase public climate concern in host countries, ruling out alternative channels such as media coverage and trade. The effect is driven by right-leaning and less-educated voters, suggesting that heightened concern reflects an increase in perceived salience and cost of climate inaction rather than a broad increase in climate awareness. Shifts in stated preferences, however, do not translate into pro-environmental voting, consistent with turnout effects, non-voter preference changes, and stable party platforms.  
 </details>
 
 ## Publications
