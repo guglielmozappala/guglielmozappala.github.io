@@ -41,10 +41,6 @@ You are no longer firms. Everyone gets a two-page dossier with both markets' res
 
 Abatement is now more expensive for every firm in both markets, by the same amount. Open your card. The treated market runs the amendment, the control market runs the original rules. Trade again.
 
-## After class
-
-The tape, every trade with its time, market, buyer, seller, price and quantity, goes on Blackboard within 24 hours, for both markets and both rounds. Week 7 starts from it: treatment and control, what the amendment changed, and what the comparison cannot tell us.
-
 ## Tips
 
 - Work out your reservation prices from your card before you trade: the most a permit is worth to you, and the least you should accept for one.
