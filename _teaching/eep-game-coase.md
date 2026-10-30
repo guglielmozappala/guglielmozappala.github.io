@@ -21,7 +21,7 @@ A bar on the Navigli keeps its terrace open late. The resident upstairs would li
 
 ## How we play
 
-- When everyone is in, I start the random pairing. You keep the same partner and the same role for all three rounds. With an odd number of players, one of you bargains with an instructor proxy that accepts any offer.
+- When everyone is in, I start the random pairing. You keep the same partner and the same role for all three rounds. With an odd number of players, one of you bargains with me, and I accept any offer.
 - Each round has a five-minute clock. You bargain in the app: make an offer (late nights and a payment), counter your partner's offer, accept, reject or walk away.
 - If the clock runs out without a deal, the round ends at the status quo: whoever holds the right chooses the nights and no money changes hands.
 

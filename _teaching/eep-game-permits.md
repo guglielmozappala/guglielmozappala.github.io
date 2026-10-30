@@ -12,7 +12,7 @@ excerpt: "A two-market emissions trading simulation, played in Week 6 (16 Octobe
 
 Your team runs a firm that emits six tonnes a year. The regulator has capped the market: every tonne needs a permit and there are fewer permits than tonnes. What you cannot cover with permits you abate, at a cost that rises with each tonne. Only your firm knows its costs. You trade permits with the other firms in your market.
 
-The room is split into two markets, A and B, with the same rules and four firms each. After the first round the whole class becomes the regulator. You debate two amendments to the rules, vote one in, and a coin decides which market runs under it in the second round. The other market keeps the original rules.
+The room is split into two markets, A and B, with the same rules and four firms each. After the first round the whole class becomes the regulator. You debate two amendments to the rules, vote one in, and a random draw decides which market runs under it in the second round. The other market keeps the original rules.
 
 ## Join
 
@@ -28,7 +28,7 @@ Make your firm's total cost as low as possible. You start with three permits. If
 
 ## Your two numbers, before the market opens
 
-Turn your card into two prices and write them on your tracking sheet. An example, on an invented card that belongs to no firm in the game:
+Turn your card into two prices. An example, on an invented card that belongs to no firm in the game:
 
 | Abate the | 1st | 2nd | 3rd | 4th | 5th | 6th |
 |---|---|---|---|---|---|---|
@@ -47,7 +47,7 @@ Check every trade against these numbers before you send it.
 - Every firm starts with three free permits. The market has twelve.
 - **Trading:** post a buy or a sell order at a price of your choice, in whole euros, for one to six permits. A buy order trades at once against any waiting sell order at the same price or lower, and a sell order against any waiting buy order at the same price or higher. The trade happens at the price of the waiting order. Otherwise your order waits in the book until it trades or you cancel it. You can only sell permits you hold. There is no official price and I am not going to suggest one.
 - **Compliance:** when the round closes you emit one tonne per permit you hold, up to six, and abate the rest at your card's cost. Permits beyond six are wasted. Your page then shows your total cash out: abatement cost, plus what you paid for permits, minus what you received. Compare it with your do-nothing cost.
-- Halfway through the round I freeze both markets and ask you to write down whether you would change your two numbers.
+- Halfway through the round I freeze both markets, put the average price so far on the board and ask you to compare it with your two numbers.
 
 ## Round 1
 
@@ -55,7 +55,7 @@ Both markets trade under these rules. At the close we compare each market's pric
 
 ## The committee
 
-You are no longer firms. Everyone gets a two-page dossier with both markets' results, and the class debates two amendments to the rules. You see them in class. Blank ballot, simple majority, and I have the casting vote if it is a tie. Before I open the ballots, the committee writes and signs one sentence predicting what the winning amendment will do. Then the coin: heads, market A gets the amendment and market B stays as it is; tails, the other way round. I announce the mapping before the flip.
+You are no longer firms. Both markets' results go on the board, and the class debates two amendments to the rules. You see them in class. Closed ballot on Slido with no names, simple majority, and I have the casting vote if it is a tie. Before I show the count, the committee agrees one sentence predicting what the winning amendment will do, and I write it on the board. Then a random draw (a random number generator) decides which market gets the amendment. The other market stays as it is.
 
 ## Round 2
 
