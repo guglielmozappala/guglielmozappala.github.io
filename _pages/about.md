@@ -61,7 +61,7 @@ Email: guglielmo.zappala[at]unibocconi.it
 
 Wondering how to pronounce my name? /goo-yell-mo/
 
-<audio controls> <source src=" https://github.com/guglielmozappala/guglielmozappala.github.io/blob/master/files/name.m4a?raw=true" type="audio/ogg"></audio>
+<audio controls preload="metadata"><source src="/files/name.m4a" type="audio/mp4"></audio>
 
 </div>
 </div>

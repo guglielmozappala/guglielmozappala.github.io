@@ -39,3 +39,9 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* pages built on the single layout have no #main wrapper (removed in 2022), so give them the side padding #main would add */
+body > .page {
+  padding-left: 1em;
+  padding-right: 1em;
+}
