@@ -13,9 +13,6 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Talks"
-    url: /talks/    
-
 # Sidebar navigation for the Environmental Economics and Policy course pages (30759, Bocconi)
 eep:
   - title: "Environmental Economics and Policy"
