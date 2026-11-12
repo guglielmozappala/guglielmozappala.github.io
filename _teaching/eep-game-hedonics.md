@@ -5,7 +5,7 @@ layout: archive
 author_profile: false
 sidebar:
   nav: "eep"
-excerpt: "A housing-market sorting game, played in Week 8 (10 November)."
+excerpt: "A housing-market sorting game, played on Friday 13 November."
 ---
 
 ## The story
@@ -59,4 +59,4 @@ Each round your team submits three answers:
 
 ## Think about
 
-When preferences differ, who ends up in the clean locations, and what does the price difference between two locations measure? Whose willingness to pay is it? We come back to these questions after the game, and again in Week 11 (27 November).
+When preferences differ, who ends up in the clean locations, and what does the price difference between two locations measure? Whose willingness to pay is it? We come back to these questions after the game, and again on Monday 30 November.
