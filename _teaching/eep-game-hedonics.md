@@ -36,7 +36,6 @@ Seventy-five households choose where to live among six locations, A to F. The lo
 
 - **Rounds 1 to 3:** every household has the same tastes, α = 3 and β = 1, whatever type your phone shows. In round 1 the locations differ only in EQ. Round 2 adds a second amenity: the locations differ in EQ and in SQ. In round 3 they still differ in both, but EQ no longer rises from A to F.
 - **Rounds 4a, 4b and 5:** each household type has its own α, and β = 1 for every type. Round 4a has one clean location and round 4b has two. In round 5, EQ rises from A to F. All six types are in the market, even if fewer than six teams play.
-- I may skip a round in class.
 
 ## What your team submits
 
