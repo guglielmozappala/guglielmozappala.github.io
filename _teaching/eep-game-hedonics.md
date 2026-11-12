@@ -56,7 +56,3 @@ Each round your team submits three answers:
 - Work out the prices before you compute utilities. In B to F, each price follows from the number of households in that location.
 - Before you submit, check every location: no household there should be able to do better elsewhere at the same prices.
 - Nothing is graded and there is no ranking.
-
-## Think about
-
-When preferences differ, who ends up in the clean locations, and what does the price difference between two locations measure? Whose willingness to pay is it? We come back to these questions after the game, and again on Monday 30 November.
