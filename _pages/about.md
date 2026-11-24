@@ -48,7 +48,7 @@ redirect_from:
 </div>
 <div class="about-text" markdown="1">
 
-I am an Assistant Professor at Bocconi University.
+I am an Assistant Professor at Bocconi University and an affiliate of [GREEN](https://green.unibocconi.eu/) and [IGIER](https://igier.unibocconi.eu/). 
 
 My research studies the socio-economic impacts of climate change and humanity’s ability to adapt to these impacts. Part of my research also examines the determinants of environmental preferences and of public support for climate policies.
 
