@@ -40,8 +40,15 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* pages built on the single layout have no #main wrapper (removed in 2022), so give them the side padding #main would add */
+/* pages built on the single layout have no #main wrapper (removed in 2022), so give them
+   the side padding #main would add, and centre them in the same 1280px column as the menu bar
+   (equal white space left and right on wide screens; text still wraps when the window shrinks) */
 body > .page {
+  float: none;
+  width: auto;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
   padding-left: 1em;
   padding-right: 1em;
 }

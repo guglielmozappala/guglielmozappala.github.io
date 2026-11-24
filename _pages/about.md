@@ -11,6 +11,7 @@ redirect_from:
 <style>
 .about-row {
   display: flex;
+  max-width: 1100px;
   align-items: flex-start;
   gap: 2em;
   margin-top: 1.5em;
